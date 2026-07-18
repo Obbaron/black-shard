@@ -2,64 +2,81 @@
 
 # ✦ The Black Shard ✦
 
-> *"The world of a stattered remnant."*
+> *"A world remembered in pieces — and never twice the same."*
 
 ![Status](https://img.shields.io/badge/status-under_construction-orange?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-pre--alpha-blue?style=for-the-badge)
+![Stage](https://img.shields.io/badge/stage-pre--alpha-blue?style=for-the-badge)
+![World](https://img.shields.io/badge/world-Weilan-blueviolet?style=for-the-badge)
+![Faith](https://img.shields.io/badge/faith-Eutaxia-red?style=for-the-badge)
+![Sources](https://img.shields.io/badge/sources-unreliable_by_design-lightgrey?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-CC_BY--NC-lightgrey?style=for-the-badge)
-![Made With](https://img.shields.io/badge/made_with-imagination-purple?style=for-the-badge)
 
 ---
 
-*Worldbuilding archive of lore, history, cultures, languages, maps, and stories.*
+*Worldbuilding archive of lore, history, cultures, languages, calendars, and testimony.*
 
 </div>
 
 ---
 
-## 🌍 What is this?
+## 🌍 The Paracosm
 
-**The Black Shard** is a paracosm, documenting an original universe from its cosmology to individual people's lives.
+**The Black Shard** is a high fantasy universe with a focus on linguistics and high concept political intrigue. I use it as a setting for roleplaying games but it exists outside of that. I would continue worldbuilding even if I could never play D&D again.
 
-This repository serves as the canonical archive for everything related to the setting.
+This repository is a canonical archive, but it is not a wiki of settled facts, rather it is a **collection of testimonies**: each entry about the world is written from an in-universe perspective. Thus primary sources contradict one another, and each chronicler has a voice/bias: composed from inside a faith, court, or grievance, each with its own silences.
 
-It includes:
+No single document here is *the truth.* The truth is what survives being read against everything else.
 
-- 🌎 Geography
-- 📜 History
-- 🏛 Nations & Politics
-- 👥 Cultures
-- 🗣 Languages
-- ⚔ Military
-- ✨ Magic / Technology
-- 📖 Stories
-- 🎭 Characters
-- 🗺 Maps
-- 📚 Timeline
-- 🎨 Concept Art
+Nobody in-universe knows the world by the name "the Black Shard". To them, the world is the continent, **Weilan**. 
 
 ---
 
-# 📂 Repository Structure
+## ✨ Core Philosophy
+
+> This is not a story.
+>
+> It is a **world**, and stories only pass through it.
+>
+> Every nation has a history.
+> Every faith has a heresy.
+> Every map has a lie on it somewhere.
+>
+> Every source here has an author.
+> Every author has a reason to shade the truth.
+> The record does not agree with itself — and that is not a flaw. **That is the point.**
+>
+> The goal is not perfection.
+> The goal is *believability* — the weight of a world too large for any one voice to hold.
+
+---
+
+## 📂 Repository Structure
+
+> *Proposed layout — the archive is young; most branches are still empty. Files marked* `← drafted` *exist today.*
 
 ```text
 .
 ├── docs/
+│   ├── cosmology/
 │   ├── history/
 │   ├── nations/
+│   │   ├── yavanna/
+│   │   └── vestrn/
 │   ├── religions/
-│   ├── species/
+│   │   └── eutaxia.md                  ← drafted
+│   ├── peoples/
 │   ├── cultures/
 │   ├── languages/
+│   │   └── languages_of_weilan.csv     ← drafted
 │   └── technology/
 │
-├── maps/
+├── reference/
+│   └── calendar.json                   ← drafted
 │
 ├── characters/
-│
 ├── timelines/
-│
 ├── stories/
+├── maps/
 │
 ├── assets/
 │   ├── artwork/
@@ -71,125 +88,160 @@ It includes:
 
 ---
 
-# ✨ Core Philosophy
+## 🗂 The Archive So Far
 
-> This is not a story.
+| File | What it holds |
+|---|---|
+| 📜 `eutaxia.md` | The doctrine of **Eutaxia** — *good order* — written from inside the orthodox imperial church: its gods, its calendar theology, its deathless Emperor, and the heresies it fears. |
+| 🗓 `calendar.json` | The machine-readable **Calendar of Yavanna** — a 361-day year, a seven-day week, and two moons (Iso and Sisar) kept in their courses. |
+| 🗣 `languages_of_weilan.csv` | Eleven **languages of Weilan**, each with its homeland and the real-world tongue it is shaped after. |
 
-It is a **world**.
+<details>
+<summary><b>🕊 The Seven Who Hold the Days</b></summary>
 
-Stories happen *inside* it.
+<br>
 
-Every nation has a history.
+In Eutaxia, to hold a day of the week *is* to be a god. There are seven — the **Hebdomad** — and above them, holding no day and yet second to none in heaven or earth, the deathless Emperor.
 
-Every city has politics.
+| God | Day | Domains |
+|---|---|---|
+| **Monas** | Monda | The Great Moon, solitude, asceticism, reflection, the cosmos |
+| **Theureus** | Tuesda | Authority, sovereignty, caste, just war |
+| **Firēs** | Wirsda | Wind, breath, sky, fate, travelers, messages |
+| **Barjas** | Horda | Judgment, storms, the thunderbolt, trials, mountains |
+| **Phira** | Frida | Love, marriage, fertility, union, sacred oaths |
+| **Sophras** | Sorda | Wisdom, philosophy, the arcane arts, agriculture, time, prophecy |
+| **Sounia** | Sunda | The sun, fire, illumination, cosmic order, fulfillment |
 
-Every language evolved.
+*Once the Seven were Eight. The eighth is not named here.*
 
-Every religion has disagreements.
+</details>
 
-Every map has mistakes.
+<details>
+<summary><b>🗣 The Tongues of Weilan</b></summary>
 
-The goal isn't perfection.
+<br>
 
-The goal is *believability.*
+Eleven languages are recorded so far, each rooted in its own homeland across the region.
+
+| Language | Homeland |
+|---|---|
+| High Vestrn | Hojland |
+| Low Vestrn | Sarvaald / Ríkrvollr |
+| Duegar | Nuruu |
+| Bahari | Albahaar |
+| Havari | Havaari |
+| Hskan | Hanzith |
+| Ojapól | Hoja plata |
+| Myridic | Myridian |
+| D'gento | Valle d'argento |
+| Yona | Southern Yavanna |
+| Doran | Northern Yavanna |
+
+*Each language's real-world analog is recorded in the source file.*
+
+</details>
 
 ---
 
-# 🌌 Current Scope
+## 🧭 Canon & Testimony
 
-- [ ] Cosmology
-- [ ] Planetary Systems
-- [ ] Geological History
-- [ ] Ancient Era
-- [ ] Classical Era
-- [ ] Modern Era
-- [ ] Complete Political Map
-- [ ] Languages
-- [ ] Character Database
-- [ ] Historical Atlas
-- [ ] Encyclopaedia
+The archive tracks **two separate things**, and keeps them apart on purpose.
 
----
-
-# 📚 Documentation
-
-| Section | Description |
-|----------|-------------|
-| Geography | Continents, climates, oceans |
-| Nations | Governments, borders, diplomacy |
-| History | Major events and timelines |
-| Culture | Traditions, food, customs |
-| Languages | Scripts, grammar, vocabulary |
-| Religion | Beliefs, mythology, deities |
-| Technology | Scientific and technological development |
-| Characters | Important historical figures |
-| Stories | Novels, short stories, campaigns |
-
----
-
-# 🧭 Canon
-
-This repository distinguishes between different levels of canon.
+**Canon status** — is this settled?
 
 | Level | Meaning |
-|--------|---------|
+|---|---|
 | ✅ Canon | Official lore |
 | 🟨 Draft | Being developed |
 | 🟪 Experimental | May change drastically |
 | ❌ Deprecated | No longer canon |
 
+**Source reliability** — *can this narrator be trusted?* Every in-world document carries frontmatter declaring where it comes from and how far it can be believed:
+
+| Field | Meaning |
+|---|---|
+| `source` | The in-world author or tradition |
+| `perspective` | Its viewpoint and allegiances |
+| `reliability` | What it gets right — and where it is silent, biased, or wrong |
+| `status` | Draft · in progress · settled |
+
+A document can be **✅ canon** and still be a **liar**. That tension is the whole design.
+
 ---
 
-# 📖 World Statistics
+## 🌌 Current Scope
+
+- [x] Calendar & timekeeping
+- [x] A major faith (Eutaxia)
+- [x] Foundational languages
+- [ ] Cosmology
+- [ ] Geography & climate
+- [ ] Historical eras & timeline
+- [ ] Complete political map
+- [ ] Nation articles
+- [ ] Peoples & cultures
+- [ ] Character database
+- [ ] Historical atlas
+- [ ] Encyclopaedia
+
+---
+
+## 📖 World Statistics
 
 ```text
-World Age        :: ??? years
-Continents       :: ?
-Nations          :: ?
-Languages        :: ?
-Characters       :: ?
-Major Religions  :: ?
-Cities           :: ?
-Stories          :: ?
+Imperial Year        :: 812
+Region               :: Weilan
+Documented Realms    :: Yavanna Empire · Duchies of Vestrn
+Languages Recorded   :: 11
+Major Faiths         :: Eutaxia  (+ the Reckoner heresy)
+Moons                :: 2   (Iso · Sisar)
+Continents           :: ???
+Cities               :: ???
+Characters           :: ???
+Stories              :: ???
 ```
 
 ---
 
-# 🎨 Inspiration
+## 🎨 Influences & Design DNA
 
-This project draws inspiration from:
+*Evident in the material — swap in your own as the project grows:*
 
-- Tolkien's Legendarium
-- Dune
-- The Elder Scrolls
-- Trigun
-- History
-- Anthropology
-- Linguistics
+- Comparative **linguistics** and language families
+- Real-world **religious history**, schism, and calendar reform
+- **Greek and Sanskrit** sacred vocabulary as a founding stratum
+- The epistemics of **unreliable historical sources** — chronicles, scripture, and heresy that refuse to agree
 
 ---
 
-# 🗺 Development Roadmap
+## 🗺 Development Roadmap
 
-- [ ] Finish global map
-- [ ] Complete historical timeline
-- [ ] Write nation articles
-- [ ] Finish language documentation
-- [ ] Create encyclopedia
-- [ ] Interactive atlas
-- [ ] Searchable wiki
+- [ ] Draft the cosmology and the shape of the heavens
+- [ ] Chart the geography of Weilan
+- [ ] Build the historical timeline (Unification, the Severance, the present day)
+- [ ] Write the nation articles — Yavanna, then the Duchies of Vestrn
+- [ ] Give voice to the counter-testimony (the Reckoners; the frontier chronicles)
+- [ ] Expand the language documentation into scripts and grammar
+- [ ] Compile the encyclopaedia
+- [ ] An interactive atlas & searchable wiki
 
 ---
 
 <details>
-
 <summary><b>🌠 Lore Teaser</b></summary>
 
-Long before kingdoms learned to write history, they learned to erase it.
+<br>
 
-The oldest ruins are not abandoned.
+Once, the week had eight days.
 
-They are remembered incorrectly.
+One of them was struck from the calendar — and the goddess who held it was struck from the sky.
+
+She has been running ever since. Seven nights out, seven nights home, over the heads of a people who cast her down and then, out of pity, kept giving her a day. An Emperor took even that away.
+
+The empire calls this *order.*
+
+She has never once stopped keeping time.
 
 </details>
 
@@ -197,10 +249,7 @@ They are remembered incorrectly.
 
 <div align="center">
 
-### *"Every civilization thinks it is living in the present.*
-
-### *Every historian knows they are living in someone's future myth."*
-
-**Made with coffee, insomnia, and an unreasonable amount of worldbuilding.**
+### *"Every civilization believes it is standing at the end of history.*
+### *None of them were right."*
 
 </div>
