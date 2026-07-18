@@ -16,7 +16,7 @@
 
 <img src="maps/vestrn-labeled-fancy.png" width="82%" alt="Illustrated, labelled map of the Duchies of Vestrn">
 
-<sub><i>The Duchies of Vestrn — the western reach of the continent of Weilan.</i></sub>
+<sub><i>The Duchies of Vestrn.</i></sub>
 
 <br><br>
 
@@ -37,13 +37,11 @@
 
 ## 🌍 What is this?
 
-**The Black Shard** is a paracosm — an original universe documented from its cosmology down to the argument two priests are having about a single day of the year.
+**The Black Shard** is a high fantasy poltically flavored universe.
 
-Its stage is the continent of **Weilan**, and its heart is the **west**: the shattered **Duchies of Vestrn**, on the far shore beyond the Great Desert of Wei. This is home ground — a land of dukes and baronies, of dwarven halls and elven wood, of a faith the Empire calls barbarous. The **Yavanna Empire** is not the subject here. It is the weather on the eastern horizon: vast, ancient, deathless, and — for now — content to leave the west mostly alone.
+Its stage is the continent of **Weilan**, and its heart is the **west**: the shattered **Duchies of Vestrn**, on the far shore beyond the Great Desert of Wei. Vestrn is a land of warring dukes and baronies, of dwarven halls and elven wood, of a faith the Empire calls barbarous. The **Yavanna Empire** is not the subject here. It is the weather on the eastern horizon: vast, ancient, deathless, and — for now — content to leave the west mostly alone.
 
-> *There is no "Black Shard" within the world. In-world this is **Weilan**, and its western reach is **Vestrn**. The title belongs to the archive — though there is, as it happens, a place called **The Shard** on Vestrn's southern shore.*
-
-This repository is Weilan's canonical archive. But it is **not** a wiki of settled facts. It is a **collection of testimony** — primary sources that contradict one another, each written from inside some faith, court, or grievance. No single document here is *the truth.* The truth is what survives being read against everything else.
+This repository is Weilan's canonical archive, but not a wiki of settled facts. It is a **collection of testimony**. Primary sources conflict, each written from inside some faith, court, or grievance. No single document here is *the truth.* The truth is what survives being read against everything else.
 
 ---
 
@@ -51,12 +49,12 @@ This repository is Weilan's canonical archive. But it is **not** a wiki of settl
 
 ## 🛡 The West — the Duchies of Vestrn
 
-Once there was a **Kingdom** of Vestrn. There is not one now.
+Once there stood the mighty **Kingdom** of Vestrn.
 
-In the **Severance War** the kingdom was broken and forbidden ever to raise a king again — its crown struck into a scatter of duchies and baronies, no duke permitted more than one. In exchange, the west was left its own: its lords, its rainbow-shouldered goddess, its long memory. The Empire watches from across the sand and, mostly, does not reach. **Mostly.**
+At the conclusion of the **Severance War**, the kingdom was broken and forbidden ever to raise a king again, its crown struck into a scatter of duchies and baronies, no duke permitted more than one. In exchange, the west was left its own: its lords, its rainbow-shouldered goddess, its long memory. The Empire watches from across the sand and, mostly, does not reach. **Mostly.**
 
 <details>
-<summary><b>🏰 The Duchies & Baronies</b> — the realms of the west</summary>
+<summary><b>🏰 The Duchies & Baronies</b>The realms of the west</summary>
 
 <br>
 
@@ -78,7 +76,7 @@ In the **Severance War** the kingdom was broken and forbidden ever to raise a ki
 </details>
 
 <details>
-<summary><b>🌈 The Faith of the West</b> — one god where the Empire counts two</summary>
+<summary><b>🌈 The Faith of the West</b>One god where the Empire counts two</summary>
 
 <br>
 
