@@ -2,7 +2,7 @@
 
 # ✦ The Black Shard ✦
 
-> *"On the western shore, the sea at your back and the sand a month away, the last land swallowed by the Empire."*
+> *"On the western shore, the sea at your back and the sand a month away — this is the last land the Empire has not troubled to swallow."*
 
 ![Status](https://img.shields.io/badge/status-under_construction-orange?style=for-the-badge)
 ![Stage](https://img.shields.io/badge/stage-pre--alpha-blue?style=for-the-badge)
@@ -263,7 +263,7 @@ The two **outsider** tongues rode in from beyond the family; the rest are cousin
 
 The imperial year runs **361 days**, a **seven-day week** named for the Seven, tracked against **two moons — Iso and Sisar.** Where the week and the year fail to divide, four godless days — the **Plerosis** — close the year outside the week entirely. It is on those four days that the west's prophecy waits.
 
-Structured data: [`reference/calendar.json`](reference/calendar.json) — **drafted**. *(Note: the doctrinal "nineteen months of nineteen days" and the calendar file's month list don't yet agree — a known open question.)*
+Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-calendar.md) — **drafted**. Structured data: [`reference/calendar.json`](reference/calendar.json). *(The doctrinal "nineteen months of nineteen days" and the file's **eighteen** months don't yet agree — a known open question, laid out in the article.)*
 
 </details>
 
@@ -316,8 +316,10 @@ Structured data: [`reference/calendar.json`](reference/calendar.json) — **draf
 │   ├── languages/
 │   │   └── languages_of_weilan.csv   ← drafted
 │   ├── cosmology/
+│   │   └── eutaxian-calendar.md      ← drafted
 │   ├── cultures/
-│   ├── technology/                             (the Wall)
+│   ├── technology/
+│   │   └── the-wall.md               ← stub    (the Wall)
 │   ├── timelines/
 │   ├── characters/
 │   └── stories/
