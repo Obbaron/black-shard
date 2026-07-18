@@ -2,7 +2,7 @@
 
 # ✦ The Black Shard ✦
 
-> *"On the western shore, the sea at your back and the sand a month away — this is the last land the Empire has not troubled to swallow."*
+> *"On the western shore, the sea at your back and the sand a month away, the last land the Empire swallowed."*
 
 ![Status](https://img.shields.io/badge/status-under_construction-orange?style=for-the-badge)
 ![Stage](https://img.shields.io/badge/stage-pre--alpha-blue?style=for-the-badge)
