@@ -19,15 +19,15 @@
 
 ---
 
-## 🌍 The Paracosm
+## 🌍 What is this?
 
-**The Black Shard** is a high fantasy universe with a focus on linguistics and high concept political intrigue. I use it as a setting for roleplaying games but it exists outside of that. I would continue worldbuilding even if I could never play D&D again.
+**The Black Shard** is a paracosm — an original universe documented from its cosmology down to the argument two priests are having about a single day of the year.
 
-This repository is a canonical archive, but it is not a wiki of settled facts, rather it is a **collection of testimonies**: each entry about the world is written from an in-universe perspective. Thus primary sources contradict one another, and each chronicler has a voice/bias: composed from inside a faith, court, or grievance, each with its own silences.
+This repository is its canonical archive. But it is not a wiki of settled facts. It is a **collection of testimony**: the world is written the way a historian recovers a real civilization — through primary sources that contradict one another, each composed from inside some faith, court, or grievance, each with its own silences.
 
 No single document here is *the truth.* The truth is what survives being read against everything else.
 
-Nobody in-universe knows the world by the name "the Black Shard". To them, the world is the continent, **Weilan**. 
+Currently the archive centers on the **Yavanna Empire** and the wider region of **Weilan** — its state faith, its deathless Emperor, its calendar, its heretics, and its many tongues.
 
 ---
 
@@ -212,6 +212,76 @@ Stories              :: ???
 - Real-world **religious history**, schism, and calendar reform
 - **Greek and Sanskrit** sacred vocabulary as a founding stratum
 - The epistemics of **unreliable historical sources** — chronicles, scripture, and heresy that refuse to agree
+
+### 🗣 The Languages, and Why They Are Related
+
+Each recorded tongue is shaped after a real-world language — and because those originals belong to real families, the analogs already encode a **shared ancestry and a migration history.** Read together, they are not eleven inventions but one family tree with two outsiders leaning against it.
+
+| In-world | Homeland | Modeled on | Family |
+|---|---|---|---|
+| **Yona** | Southern Yavanna | Greek | Yonic *(Hellenic)* |
+| **Doran** | Northern Yavanna | Turkish | *— outside the family* |
+| **High Vestrn** | Hojland | Dutch | Vestrenic *(West Germanic)* |
+| **Low Vestrn** | Sarvaald / Ríkrvollr | English | Vestrenic *(West Germanic)* |
+| **Duegar** | Nuruu | German | Vestrenic *(West Germanic)* |
+| **Ojapól** | Hoja plata | Spanish | Silver *(Romance)* |
+| **D'gento** | Valle d'argento | Italian | Silver *(Romance)* |
+| **Hskan** | Hanzith | Armenian | Hskan *(its own branch)* |
+| **Havari** | Havaari | Bulgarian | Havaric *(Slavic)* |
+| **Bahari** | Albahaar | Romani | Indic *(diaspora)* |
+| **Myridic** | Myridian | Arabic | *— outside the family* |
+
+```text
+⟨ The Elder Speech ⟩   (proposed common ancestor)
+│
+├─ Vestrenic  (Germanic)
+│   ├─ High Vestrn   · Dutch
+│   ├─ Low Vestrn    · English
+│   └─ Duegar        · German
+│
+├─ Silver     (Romance)
+│   ├─ Ojapól        · Spanish
+│   └─ D'gento       · Italian
+│
+├─ Yonic      (Hellenic)
+│   └─ Yona          · Greek     ← Yavanna's vernacular AND its liturgy
+│
+├─ Hskan      (its own branch)
+│   └─ Hskan         · Armenian
+│
+├─ Havaric    (Slavic)
+│   └─ Havari        · Bulgarian
+│
+└─ Indic      (Indo-Aryan)
+    ├─ Old Indic     · Sanskrit  ← survives only as Yavanna's sacred words
+    │                              (súrya → Sounia, vajra → Barjas)
+    └─ Bahari        · Romani    ← the wanderers, scattered west
+
+Beyond the family — later arrivals, no kinship to the above:
+    Doran     · Turkish   ← steppe migrants, now the north of Yavanna
+    Myridic   · Arabic    ← a southern sea-and-desert civilization
+```
+
+<details>
+<summary><b>🧬 How the history is built so the kinships make sense</b></summary>
+
+<br>
+
+> **Proposed reconstruction** — consistent with the analogs and with existing canon (the *súrya/vajra* stratum, Yona liturgy, the Vestrn Duchies). Working labels like *Elder Speech*, *Vestrenic*, and *Silver* are placeholders to keep or replace.
+
+**One ancestor, then dispersal.** Most of Weilan's tongues descend from a single deep language — the *Elder Speech* — whose daughters scattered across the region and drifted into the branches above, exactly as the real Indo-European family fans out from one root.
+
+**The Silver pair betray themselves.** Ojapól and D'gento need no reconstruction to prove kinship: their very homelands say it. *Hoja plata* and *Valle d'argento* both mean **silver** — one silver country, split by mountain and valley into two daughter tongues.
+
+**Yavanna prays in a dead cousin's language.** Canon already holds that two of the Seven arrived through an older tongue — *súrya* became **Sounia**, *vajra* became **Barjas**. That older tongue is *Old Indic*, and though it survives in Yavanna only as fossilised sacred words, its living cousin still walks the roads: **Bahari**, the wanderers. Their real-world model, Romani, is an Indic language carried west through the Middle East — which is precisely why Bahari, an Indic tongue, is at home in the Semitic-flavoured land of *Albahaar*. The empire venerates the fossil and scorns the descendant, never hearing that they are the same blood.
+
+**Two families come from outside.** **Doran** (Turkic) belongs to no branch of the Elder Speech; it rode in off the northern steppe and now holds the north of Yavanna beside the Yona-speaking south — one empire, two unrelated tongues under one crown. **Myridic** (Semitic) stands on its own ancient root entirely, a maritime and desert civilization to the south that the family never touched.
+
+**Contact writes the rest.** **Low Vestrn** (English) shows conquest layered on conquest — a Norse-flavoured substrate in its homelands *Sarvaald* and *Ríkrvollr*, overlaid later by borrowings, exactly as English was built. And **Yona** keeps archaic sounds in its liturgy that its own daughters have let fall — the digamma preserved in *Firēs* but lost from the weekday **Wirsda** — a fact the faith already teaches as *"the god preserves what the day erodes."*
+
+*This could graduate from the README into a full `docs/languages/` article whenever you want it to.*
+
+</details>
 
 ---
 
