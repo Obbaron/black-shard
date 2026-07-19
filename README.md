@@ -35,32 +35,32 @@
 
 ---
 
-## 🌍 What is this?
+## 🌍 The Black Shard
 
-**The Black Shard** is a paracosm — an original universe documented from its cosmology down to the argument two priests are having about a single day of the year.
+**The Black Shard** paracosm is a high fantasy world with a focus on political intrigue, linguistics, and anthropology.
 
-Its stage is the continent of **Weilan**, and its heart is the **west**: the shattered **Duchies of Vestrn**, on the far shore beyond the Great Desert of Wei. This is home ground — a land of dukes and baronies, of dwarven halls and elven wood, of a faith the Empire calls barbarous. The **Yavanna Empire** is not the subject here. It is the weather on the eastern horizon: vast, ancient, deathless, and — for now — content to leave the west mostly alone.
+Its stage is the continent of **Weilan**. On its western shore sits the shattered **Duchies of Vestrn**, a land of dukes and baronies, of dwarven mountains and elven wood, of a faith the Empire calls barbarous. On the eastern shore sits the core of the **Yavanna Empire**, from which the **Immortal Emperor Menneus** reigns over the continent. Yavanna is the weather on the eastern horizon: vast, ancient, deathless, and content to leave the west mostly alone... for now. Betwixt these great powers lied the **Great Desert of Wei**, TODO: finsh description of desert and wall
 
-> *There is no "Black Shard" within the world. In-world this is **Weilan**, and its western reach is **Vestrn**. The title belongs to the archive — though there is, as it happens, a place called **The Shard** on Vestrn's southern shore.*
+> *There is no "Black Shard" within the world. In-universe this is **Weilan**, and its western reach is **Vestrn**.*
 
-This repository is Weilan's canonical archive. But it is **not** a wiki of settled facts. It is a **collection of testimony** — primary sources that contradict one another, each written from inside some faith, court, or grievance. No single document here is *the truth.* The truth is what survives being read against everything else.
+This repository is Weilan's canonical archive. Though it is **not** a wiki of settled facts. Rather a **collection of testimonies**, primary sources that contradict one another, each written from inside some faith, court, or grievance. No single document is *the truth.* The truth is what survives being read against everything else.
 
 ---
 
 <a id="vestrn"></a>
 
-## 🛡 The West — the Duchies of Vestrn
+## 🛡 The Duchies of Vestrn
 
-Once there was a **Kingdom** of Vestrn. There is not one now.
+Long ago, there once was a **Kingdom** of Vestrn.
 
-In the **Severance War** the kingdom was broken and forbidden ever to raise a king again — its crown struck into a scatter of duchies and baronies, no duke permitted more than one. In exchange, the west was left to govern itself: its lords, its courts, its long memory — though not its gods, for the Severance outlawed the old faith along the way. The Empire watches from across the sand and, mostly, does not reach. **Mostly.**
+At the conclusion of the **Severance War** the kingdom was broken and forbidden to ever raise a king again. Thus, Vestrn was shattered into duchies and baronies, no duke permitted more than one. In exchange, the west was allowed to continue its way of life: its lords, its courts, its long memory, but not its faith, for the Severance outlawed many a god. The Empire watches from across the sand and, mostly, does not reach. **Mostly.**
 
 <details>
-<summary><b>🏰 The Duchies & Baronies</b> — the realms of the west</summary>
+<summary><b>🏰 The Duchies & Baronies</b></summary>
 
 <br>
 
-*Descriptions are stubs; the links are where those articles will live.*
+*Descriptions are stubs:*
 
 | Realm | People | |
 |---|---|---|
@@ -71,14 +71,14 @@ In the **Severance War** the kingdom was broken and forbidden ever to raise a ki
 | [Elven Duchy of Hojaplata](docs/nations/vestrn/hojaplata.md) | Elven | The great wood; homeland of **Ojapól** |
 | [The Baronies](docs/nations/vestrn/baronies.md) | Mixed | Zin · Kemp · Thorne · Kros · Arlow · Dohr · Harquin |
 
-**Named lands & landmarks:** Bosson Moor · Gorgon Hills · High Moor · Dorian Flats · Sterling Quag · Hillpoint Wood · **The Shard**
+**Named lands & landmarks:** Bosson Moor · Gorgon Hills · High Moor · Dorian Flats · Sterling Quag · Hillpoint Wood · The Shard
 
 📄 Full write-up planned at [`docs/geography/vestrn.md`](docs/geography/vestrn.md).
 
 </details>
 
 <details>
-<summary><b>⚔️ The Faith of the West</b> — an outlawed goddess and a collaborator church</summary>
+<summary><b>⚔️ The Faith of the West</b></summary>
 
 <br>
 
@@ -120,16 +120,16 @@ Down the spine of the desert stands **the Wall** — an ancient metal barrier ha
 
 <a id="east"></a>
 
-## 🌑 The Looming East — Yavanna & the Deathless Emperor
+## 🌑 Yavanna & the Immortal Emperor
 
-The Empire is the thing the west lives beside and tries not to think about. It need not be understood to be feared — but it rewards understanding.
+Looming from the east is the mighty Yavanna Empire.
 
 <details>
 <summary><b>⚖ Eutaxia & the Seven Who Hold the Days</b></summary>
 
 <br>
 
-The Empire's faith is **Eutaxia** — *good order* — whose gods are the **Hebdomad**, the **Seven who hold the days** of the week. To hold a day *is* to be a god; a god without a day is no god at all.
+The Empire's faith is **Eutaxia** (*good order*), whose gods are the **Hebdomad**, the **Seven who hold the days** of the week. To hold a day *is* to be a god; a god without a day is no god at all.
 
 | Day | God | Domains |
 |---|---|---|
@@ -150,18 +150,18 @@ The Empire's faith is **Eutaxia** — *good order* — whose gods are the **Hebd
 
 <br>
 
-**Menneus** the **Chakravartin** has reigned for over **eight hundred years** and has never died. He is not worshipped — he holds no day, and so by the faith's own rule he is not a god — but he is **venerated** as the second power in heaven and earth, the hand that made the earth resemble the heavens.
+**Menneus** the **Chakravartin** has reigned for over **eight hundred years** and has never died. He is not worshipped for he holds no day, and so by the faith's own rule he is not a god. However, he is **venerated** as the second power in heaven and earth, the hand that made the earth resemble the heavens.
 
-He effectively controls all of Weilan: by direct rule in the east, by soft power and long shadow in the west. His grip is vast. It is also **brittle** — for a reason the whole world half-knows and no one can act upon. *(See [The Knot](#knot).)*
+He effectively controls all of Weilan: by direct rule in the east, by soft power and long shadow in the west. His grip is vast. It is also *brittle*, for a reason the whole world half-knows and no one can act upon. *(See [The Knot](#knot).)*
 
 </details>
 
 <details>
-<summary><b>📿 The Reckoners</b> — the heresy of the abacus</summary>
+<summary><b>📿 The Reckoners</b> - the heresy of the abacus</summary>
 
 <br>
 
-A hunted cult who keep a forbidden book, the **Ledger**, and compute a feast that no almanac can hold — because the Emperor deliberately built a calendar in which it *cannot* be scheduled. They cannot be found by watching the calendar; an inquisitor must first learn to compute the very thing the Empire abolished. Numerate to a soul: *a cell that loses its abacus loses its faith within the year.*
+A hunted cult who keep a forbidden book, the **Ledger**, and compute a feast no almanac can hold. They cannot be found by watching the calendar; an inquisitor must first learn to compute the very thing the Empire abolished. Numerate to a soul: *a cell that loses its abacus loses its faith within the year.*
 
 </details>
 
@@ -171,20 +171,20 @@ A hunted cult who keep a forbidden book, the **Ledger**, and compute a feast tha
 
 ## 🪢 The Knot
 
-Everything above ties into a single thread — the thing that makes the west's quiet resentment more than idle:
+Everything above ties into a single thread, the thing that makes the west's quiet resentment more than idle:
 
 > **Menneus does not merely keep time. He is kept *by* it.**
 >
-> In the Severance he struck the **eighth day** from the calendar — and bound his own deathlessness to the calendar he remade. His life and the year are one document. **Undo the Severance, and the Emperor falls** — and Yavanna's grip on its satellites loosens with him.
+> In the Severance he struck the **eighth day** from the calendar and bound his own deathlessness to the calendar he remade. His life and the year are one document. **Undo the Severance, and the Emperor falls** and Yavanna's grip on its satellites loosens with him.
 >
 > It cannot be done by winning a war. To defeat Menneus is to defeat **the one who holds time at bay.**
 
 <details>
-<summary><b>🌩 The Vestrn Prophecy</b> — the west's long-held hope</summary>
+<summary><b>🌩 The Vestrn Prophecy</b></summary>
 
 <br>
 
-The Duchies hold that the Empire will fall upon a **Plerosis** — one of the four godless days that close the imperial year — should it coincide with a **great storm**. The Empire's own reckoners have computed that the moons' conjunction *does* fall within those four days four times in every Great Cycle, once on each day, at intervals of eighty-nine years — and they dismiss the prophecy as an oracle that arrives on a knowable date and then demands an unknowable sign.
+The Duchies hold that the Empire will fall upon a **Plerosis**, one of the four godless days that close the imperial year, should it coincide with a **great storm**. The Empire's own reckoners have computed that the moons' conjunction *does* fall within those four days four times in every Great Cycle, once on each day, at intervals of eighty-nine years, and they dismiss the prophecy as an oracle that arrives on a knowable date and then demands an unknowable sign.
 
 The west keeps waiting. Storms, after all, belong to a god of **judgment**. Planned: [`docs/religions/eutaxia.md#the-vestrn-prophecy`](docs/religions/eutaxia.md).
 
@@ -212,7 +212,7 @@ Vestrn is not one people. Its human duchies share the west with two older kindre
 <a id="tongues"></a>
 
 <details>
-<summary><b>🗣 The Languages, and Why They Are Related</b></summary>
+<summary><b>🗣 The Languages</b></summary>
 
 <br>
 
@@ -233,20 +233,20 @@ Each recorded tongue is shaped after a real-world language — and because those
 | **Myridic** | Myridian | Arabic | *— outside the family* |
 
 ```text
-⟨ The Elder Speech ⟩   (proposed common ancestor)
+⟨ Urspeech ⟩  (proposed common ancestor)
 ├─ Vestrenic (Germanic) ── High Vestrn · Low Vestrn · Duegar
-├─ Silver    (Romance)  ── Ojapól · D'gento
+├─ Argentic  (Romance)  ── Ojapól · D'gento
 ├─ Yonic     (Hellenic) ── Yona          ← the Empire's vernacular & liturgy
 ├─ Hskan     (own branch)─ Hskan
 ├─ Havaric   (Slavic)   ── Havari
 └─ Indic     (Indo-Aryan)─ Old Indic (Yavanna's sacred words) · Bahari (the wanderers)
 
-Beyond the family — later arrivals:
+Beyond the family:
     Doran   · Turkish   ← steppe migrants, now the north of Yavanna (Dora)
-    Myridic · Arabic    ← Myridian, the gate-city on the Wall
+    Myridic · Arabic    ← Myridian, the gate-city of the Wall
 ```
 
-The two **outsider** tongues rode in from beyond the family; the rest are cousins. Note that the Empire's deepest sacred words descend from **Old Indic** (*súrya → Sounia*, *vajra → Barjas*) — a dead language whose only living cousin still walks the roads as **Bahari**, the wanderers. Data lives in [`docs/languages/languages_of_weilan.csv`](docs/languages/languages_of_weilan.csv) — **drafted**.
+The two **outsider** tongues rode in from beyond the family; the rest are cousins. Note that the Empire's deepest sacred words descend from **Old Indic** (*súrya → Sounia*, *vajra → Barjas*), a dead language whose only living cousin still walks the roads as **Bahari**, the wanderers. Data lives in [`docs/languages/languages_of_weilan.csv`](docs/languages/languages_of_weilan.csv): **drafted**.
 
 </details>
 
@@ -257,11 +257,11 @@ The two **outsider** tongues rode in from beyond the family; the rest are cousin
 ## 🗓 The Calendar
 
 <details>
-<summary><b>The Eutaxian year</b> — 361 days, nineteen months, seven gods</summary>
+<summary><b>The Eutaxian year</b> - 361 days, nineteen months, seven gods</summary>
 
 <br>
 
-The imperial year is **361 days — a perfect square, 19² — kept as nineteen months of nineteen days.** Its **seven-day week** is named for the Seven and begins on Monda. Where week and year fail to divide, four godless days — the **Plerosis** — close the year outside the week entirely, and it is on those four days that the west's prophecy waits.
+The imperial year is **361 days, a perfect square, 19², kept as nineteen months of nineteen days.** Its **seven-day week** is named for the Seven and begins on Monda. Where week and year fail to divide, four godless days, the **Plerosis**, close the year outside the week entirely, and it is on those four days that Vestrn's prophecy waits.
 
 Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-calendar.md) — **drafted**.
 
@@ -279,9 +279,9 @@ Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-c
 >
 > Every duchy has a grievance. Every faith has a heresy. Every map has a lie on it somewhere.
 >
-> Every source here has an author, and every author has a reason to shade the truth. The record does not agree with itself — and that is not a flaw. **That is the point.**
->
-> The goal is not perfection. The goal is *believability* — the weight of a world too large for any one voice to hold.
+> Every source here has an author, and every author has a reason to shade the truth. The record does not agree with itself. 
+
+> The goal is *verisimilitude*, meaning the believability of the world.
 
 ---
 
@@ -296,19 +296,19 @@ Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-c
 │   │   ├── weilan.md                 ← planned   (the continent, the Wei, the Wall)
 │   │   └── vestrn.md                 ← planned   (the western reach)
 │   ├── nations/
-│   │   ├── vestrn/                              ★ the focus
+│   │   ├── vestrn/
 │   │   │   ├── rikrvollr.md          ← stub
 │   │   │   ├── sarvaald.md           ← stub
 │   │   │   ├── kaladan.md            ← stub
 │   │   │   ├── nuruu.md              ← stub     (Dwarven Duchy)
 │   │   │   ├── hojaplata.md          ← stub     (Elven Duchy)
 │   │   │   └── baronies.md           ← stub     (Zin, Kemp, Thorne, Kros, Arlow, Dohr, Harquin)
-│   │   └── yavanna/                            the looming east
+│   │   └── yavanna/
 │   │       └── the-empire.md         ← planned
 │   ├── religions/
 │   │   ├── eutaxia.md                ← drafted
-│   │   ├── vestrn-faith.md           ← planned  (the Firēs–Phira fusion)
-│   │   └── sideria.md               ← drafted  (the Sylvan star-cult, D'gento voice)
+│   │   ├── vestrn-faith.md           ← planned
+│   │   └── sideria.md                ← drafted  (Sylvan star-cult, D'gento voice)
 │   ├── history/
 │   │   └── severance.md              ← planned
 │   ├── peoples/
@@ -336,8 +336,8 @@ Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-c
 │   ├── flags/
 │   └── symbols/
 │
-├── _authoring/                       ← author-only; NOT in-universe, do not publish
-│   ├── WIKI_SCHEMA.md                   the wiki's writing standard
+├── _authoring/                       ← drafting notes and info searching a home
+│   ├── WIKI_SCHEMA.md
 │   ├── SCRATCHPAD_eutaxia.md
 │   ├── SCRATCHPAD_sideria.md
 │   └── SCRATCHPAD_vestrn.md
@@ -353,17 +353,17 @@ Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-c
 | Folder | Holds |
 |---|---|
 | `cosmology/` | The heavens, the Two Orders, the moons, the shape of creation |
-| `geography/` | Weilan — the Wei, the Wall, Vestrn, the regions and cities |
-| `history/` | Major events — Unification, the Severance, the present unquiet |
+| `geography/` | Weilan: the Wei, the Wall, Vestrn, the regions and cities |
+| `history/` | Major events: Unification, the Severance, the present unquiet |
 | `timelines/` | Dated chronologies drawn from the histories |
-| `nations/` | The Duchies of Vestrn and the Yavanna Empire — rule, borders, courts |
+| `nations/` | The Duchies of Vestrn and the Yavanna Empire: rule, borders, courts |
 | `religions/` | Eutaxia, the western faith, and the heresies between |
-| `peoples/` | The kindreds of Weilan — human, dwarven, elven |
+| `peoples/` | The kindreds of Weilan: human, dwarven, elven |
 | `cultures/` | Custom, caste, rite, and daily life |
 | `languages/` | Tongues, scripts, and their family history |
-| `technology/` | Craft and machinery — the Wall foremost among its mysteries |
+| `technology/` | Craft and machinery: the Wall foremost among its mysteries |
 | `characters/` | Figures who move the world, living and deathless |
-| `stories/` | Fiction set inside the world — tales, scenes, campaigns |
+| `stories/` | Fiction set inside the world: tales, scenes, campaigns |
 
 </details>
 
@@ -391,7 +391,7 @@ The archive tracks **two separate things**, and keeps them apart on purpose.
 Every in-world source carries frontmatter:
 `source` · `perspective` · `reliability` · `status`
 
-A document can be **✅ canon** and still be a **liar**. That tension is the whole design.
+A document can be **✅ canon** and  **untrue**.
 
 </td></tr>
 </table>
@@ -402,15 +402,15 @@ A document can be **✅ canon** and still be a **liar**. That tension is the who
 
 ```text
 Imperial Year        :: 812
-Continent            :: Weilan   (split by the Great Desert of Wei)
-Home ground          :: The Duchies of Vestrn  (the west)
-The shadow           :: Yavanna Empire — Yona · Dora  (the east)
+Continent            :: Weilan
+The west             :: The Duchies of Vestrn
+The east             :: Yavanna Empire: Yona · Dora  (the east)
 Peoples              :: Human · Dwarven · Elven
-Landmark             :: The Wall — ancient, ~500m, purpose forgotten
-Gate-City            :: Myridian — the vertical city of secrets
+Landmark             :: The Wall: ancient, ~500m, purpose forgotten
+Gate-City            :: Myridian: the vertical city of secrets
 Languages Recorded   :: 11
-Moons                :: 2 — Luna Mayr & Luna Sora   (the Empire: Monē & Mania)
-Emperor              :: 1, deathless, 800+ years reigning
+Moons                :: 2: Luna Mayr & Luna Sora   (the Empire: Monē & Mania)
+Emperor              :: 1, immortal, 800+ years reigning
 ```
 
 ---
@@ -421,16 +421,16 @@ Emperor              :: 1, deathless, 800+ years reigning
 
 **Have:**
 - [x] Core geography (Weilan, the Wei, the Wall, Myridian)
-- [x] The map of Vestrn — illustrated & labelled
+- [x] The map of Vestrn
 - [x] A major faith (Eutaxia) & its calendar
 - [x] Foundational languages
 - [x] The central premise (the Knot)
 
 **Next:**
-- [ ] Vestrn nation articles — the duchies & baronies
-- [ ] The western faith (the Firēs–Phira fusion)
+- [ ] Vestrn nation articles (duchies, baronies, faiths, etc.)
+- [ ] The western faith (Firēs–Phira fusion)
 - [ ] Peoples: dwarves of Nuruu, elves of Hojaplata
-- [ ] `severance.md` — the war, the terms, the reckoning
+- [ ] `severance.md` the war, the terms, the reckoning
 - [ ] Historical timeline (Unification → Severance → present)
 - [ ] Cosmology & the shape of the heavens
 - [ ] Name the remaining sixteen months & settle the moons
@@ -445,7 +445,7 @@ Emperor              :: 1, deathless, 800+ years reigning
 
 | File | What it is |
 |---|---|
-| `maps/vestrn-labeled-fancy.png` | The illustrated Vestrn map, labelled — the display map |
+| `maps/vestrn-labeled-fancy.png` | The illustrated Vestrn map, labelled |
 | `maps/vestrn.png` | The same illustration, unlabelled |
 | `maps/vestrn-labeled.png` | The hex working map, fully labelled (reference) |
 | `maps/weilan-overview.png` | The whole continent, for context |
@@ -461,11 +461,11 @@ Emperor              :: 1, deathless, 800+ years reigning
 
 Once, the week had eight days.
 
-One of them was struck from the calendar — and the goddess who held it was struck from the sky. She has been running ever since, seven nights out and seven nights home, over the heads of a people who cast her down and then, out of pity, kept giving her a day. An Emperor took even that away, and in taking it, took his own death out of the world.
+One of them was struck from the calendar, and the goddess who held it was struck from the sky. She has been running ever since, seven nights out and seven nights home, over the heads of a people who cast her down and then, out of pity, kept giving her a day. An Emperor took even that away, and in taking it, took his own death out of the world.
 
 Now he cannot die, and the west cannot rise, and both facts have the same cause.
 
-The Empire calls this **order.** The Duchies call it **the weather** — and wait for a storm.
+The Empire calls this **order.** The Duchies call it **the weather**, and await a storm.
 
 </details>
 
