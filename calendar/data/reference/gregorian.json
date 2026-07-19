@@ -1,0 +1,157 @@
+{
+  "name": "Gregorian",
+  "months": [
+    {
+      "name": "January",
+      "days": 31,
+      "id": "jan",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "February",
+      "days": 28,
+      "id": "feb",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "March",
+      "days": 31,
+      "id": "mar",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "April",
+      "days": 30,
+      "id": "apr",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "May",
+      "days": 31,
+      "id": "may",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "June",
+      "days": 30,
+      "id": "jun",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "July",
+      "days": 31,
+      "id": "jul",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "August",
+      "days": 31,
+      "id": "aug",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "September",
+      "days": 30,
+      "id": "sep",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "October",
+      "days": 31,
+      "id": "oct",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "November",
+      "days": 30,
+      "id": "nov",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "December",
+      "days": 31,
+      "id": "dec",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    }
+  ],
+  "intercalary": [],
+  "week": {
+    "length": 7,
+    "names": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "hard": true
+  },
+  "moons": [
+    {
+      "name": "Luna",
+      "cycle": 29.530588853,
+      "shift": 0,
+      "color": "#e6e6ea"
+    }
+  ],
+  "leap_rules": [
+    {
+      "name": "Gregorian leap",
+      "interval": 4,
+      "anchor": 0,
+      "except_interval": 100,
+      "except_anchor": 0,
+      "unless_interval": 400,
+      "unless_anchor": 0,
+      "adjustments": [
+        {
+          "target": "feb",
+          "days": 1
+        }
+      ]
+    }
+  ],
+  "epoch_year": 1,
+  "start_weekday": 0,
+  "current_year": 2026,
+  "has_year_zero": false,
+  "hard_year": false,
+  "epoch_offset": null,
+  "phase_names": [
+    "New",
+    "Waxing crescent",
+    "First quarter",
+    "Waxing gibbous",
+    "Full",
+    "Waning gibbous",
+    "Last quarter",
+    "Waning crescent"
+  ],
+  "schema_version": 1
+}

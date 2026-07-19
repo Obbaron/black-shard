@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "anchor": {
+    "calendar": "yavanna",
+    "world_day": 0,
+    "description": "World-day 0 is day 1 of the Eutaxian (post-Severance) calendar: 1 Monarchē, Year 1. Every in-world calendar records its epoch_offset as the number of days its own day 1 sits from here (negative if it predates the Severance)."
+  },
+  "calendars": [
+    {
+      "name": "yavanna",
+      "file": "canon/yavanna.json",
+      "status": "canon",
+      "note": "The Eutaxian / post-Severance calendar (361 days, 19x19). Defines the anchor: epoch_offset 0."
+    }
+  ]
+}

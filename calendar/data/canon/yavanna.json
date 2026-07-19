@@ -1,0 +1,203 @@
+{
+  "name": "Calendar of Yavanna",
+  "months": [
+    {
+      "name": "Monarchē",
+      "days": 19,
+      "id": "m01",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Theurion",
+      "days": 19,
+      "id": "m02",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Desmia",
+      "days": 19,
+      "id": "m03",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 4",
+      "days": 19,
+      "id": "m04",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 5",
+      "days": 19,
+      "id": "m05",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 6",
+      "days": 19,
+      "id": "m06",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 7",
+      "days": 19,
+      "id": "m07",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 8",
+      "days": 19,
+      "id": "m08",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 9",
+      "days": 19,
+      "id": "m09",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 10",
+      "days": 19,
+      "id": "m10",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 11",
+      "days": 19,
+      "id": "m11",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 12",
+      "days": 19,
+      "id": "m12",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 13",
+      "days": 19,
+      "id": "m13",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 14",
+      "days": 19,
+      "id": "m14",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 15",
+      "days": 19,
+      "id": "m15",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 16",
+      "days": 19,
+      "id": "m16",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 17",
+      "days": 19,
+      "id": "m17",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 18",
+      "days": 19,
+      "id": "m18",
+      "out_of_week_tail": 0,
+      "tail_name": null,
+      "tail_id": null
+    },
+    {
+      "name": "Month 19",
+      "days": 19,
+      "id": "m19",
+      "out_of_week_tail": 4,
+      "tail_name": "Plerosis",
+      "tail_id": "plerosis"
+    }
+  ],
+  "intercalary": [],
+  "week": {
+    "length": 7,
+    "names": [
+      "Monda",
+      "Tuesda",
+      "Wirsda",
+      "Horda",
+      "Frida",
+      "Sorda",
+      "Sunda"
+    ],
+    "hard": false
+  },
+  "moons": [
+    {
+      "name": "Monē",
+      "cycle": 27,
+      "shift": 0,
+      "color": "#e8e0c8"
+    },
+    {
+      "name": "Mania",
+      "cycle": 14,
+      "shift": 0,
+      "color": "#b9c7e0"
+    }
+  ],
+  "leap_rules": [],
+  "epoch_year": 1,
+  "start_weekday": 0,
+  "current_year": 812,
+  "has_year_zero": true,
+  "hard_year": true,
+  "epoch_offset": 0,
+  "phase_names": [
+    "New",
+    "Waxing crescent",
+    "First quarter",
+    "Waxing gibbous",
+    "Full",
+    "Waning gibbous",
+    "Last quarter",
+    "Waning crescent"
+  ],
+  "schema_version": 1
+}

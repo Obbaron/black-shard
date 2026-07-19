@@ -1,0 +1,33 @@
+[project]
+name = "fcal"
+version = "0.1.0"
+description = "A small, dependency-free fantasy-calendar engine (creator, viewer, converter)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Proprietary - internal worldbuilding tool" }
+authors = [{ name = "Black Shard" }]
+dependencies = []
+
+[project.scripts]
+fcal = "fcal.cli:main"
+
+# Development tooling. `uv sync` installs the default groups (including `dev`),
+# so a fresh checkout gets pytest with no extra flags.
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+# Explicit package list disables setuptools flat-layout auto-discovery, which would
+# otherwise choke on the sibling data/ examples/ rendered/ tests/ directories.
+[tool.setuptools]
+packages = ["fcal"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.uv]
+# The project is installed (editable by default), so `fcal` importable + the
+# console script are both available in the synced environment.

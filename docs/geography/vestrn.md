@@ -4,7 +4,7 @@ type: geography
 status: draft
 ---
 
-# Vestrn — the Western Reach
+# Vestrn - the Western Reach
 
 The **Duchies of Vestrn** occupy the western shore of [[Weilan]], beyond the [[Great Desert of Wei]]. Once the **Kingdom of Vestrn**, the land was shattered at the conclusion of the [[Severance War]] into duchies and baronies forbidden to unite under a king again.
 

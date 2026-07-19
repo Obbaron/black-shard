@@ -191,9 +191,9 @@ Maintain in `index.md`. Every source, its bias, its blind spot.
 
 **A source earns its existence only if it can be wrong.** It needs:
 
-1. **A reason to know** — access, method, proximity
-2. **A reason to write** — an interest, a grievance, an office
-3. **A reason to distort** — something it *needs* to be true
+1. **A reason to know** - access, method, proximity
+2. **A reason to write** - an interest, a grievance, an office
+3. **A reason to distort** - something it *needs* to be true
 
 If it has no motive to lie, delete it. It is not a source.
 

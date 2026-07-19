@@ -82,7 +82,7 @@ At the conclusion of the **Severance War** the kingdom was broken and forbidden 
 
 <br>
 
-The Duchies' old native faith is **Vanirism**, headed by **Lysara the War-Maiden**, who rode before the host and chose who would fall. The **Severance outlawed it**: her altars were thrown down and her name is now said low, or not at all. In its place the Empire raised **Aesirism** — a sanctioned "native" church whose priests bless the imperial months and teach that Lysara was a demon — so that the hand holding the west down wears a Vestrn face. Above both stands imperial **Eutaxia** and its calendar.
+The Duchies' old native faith is **Vanirism**, headed by **Lysara the War-Maiden**, who rode before the host and chose who would fall. The **Severance outlawed it**: her altars were thrown down and her name is now said low, or not at all. In its place the Empire raised **Aesirism** - a sanctioned "native" church whose priests bless the imperial months and teach that Lysara was a demon - so that the hand holding the west down wears a Vestrn face. Above both stands imperial **Eutaxia** and its calendar.
 
 *(The imperial tale of a "rainbow-shouldered" god muddling Firēs and Phira is an outsider's misreading of the frontier, not the Vanir faith.)* See [`docs/religions/vestrn-faith.md`](docs/religions/vestrn-faith.md).
 
@@ -92,23 +92,23 @@ The Duchies' old native faith is **Vanirism**, headed by **Lysara the War-Maiden
 
 <a id="weilan"></a>
 
-## 🗺 The World — the Continent of Weilan
+## 🗺 The World - the Continent of Weilan
 
-One continent, cut in two by the **Great Desert of Wei** — the desert that gives Weilan its name.
+One continent, cut in two by the **Great Desert of Wei** - the desert that gives Weilan its name.
 
 <div align="center">
 <img src="maps/weilan-overview.png" width="300" alt="Overview map of the continent of Weilan">
 <br><sub><i>Vestrn holds the western shore; the Empire lies east, across the sand.</i></sub>
 </div>
 
-Down the spine of the desert stands **the Wall** — an ancient metal barrier half a kilometre high, its pistons still hissing and its turbines still turning, though what it was built to do has been forgotten. Whatever its purpose once was, it now does one thing: it gives water to **Myridian**, the **vertical city** of stacked layers and mechanical plateaus that climbs the Wall itself. Myridian is the **gate** between west and east — the **city of secrets**, and the first place a traveller out of Vestrn truly meets the granite of the Empire's reach.
+Down the spine of the desert stands **the Wall** - an ancient metal barrier half a kilometre high, its pistons still hissing and its turbines still turning, though what it was built to do has been forgotten. Whatever its purpose once was, it now does one thing: it gives water to **Myridian**, the **vertical city** of stacked layers and mechanical plateaus that climbs the Wall itself. Myridian is the **gate** between west and east - the **city of secrets**, and the first place a traveller out of Vestrn truly meets the granite of the Empire's reach.
 
 ```text
       WEST                THE GREAT DESERT OF WEI                EAST
         home                        ┃                          the shadow
  ┌──────────────┐        ┏━━━━━━━━━━╋━━━━━━━━━━┓        ┌───────────────────┐
- │  Duchies of  │        ┃      THE   WALL     ┃        │  Yona — the core  │
- │    Vestrn    │◀──────▶┃   ▓▓  MYRIDIAN  ▓▓  ┃◀──────▶│  Dora — the north │
+ │  Duchies of  │        ┃      THE   WALL     ┃        │  Yona - the core  │
+ │    Vestrn    │◀──────▶┃   ▓▓  MYRIDIAN  ▓▓  ┃◀──────▶│  Dora - the north │
  │ (left alone) │        ┃  the vertical gate  ┃        │   YAVANNA EMPIRE  │
  └──────────────┘        ┗━━━━━━━━━━╋━━━━━━━━━━┛        └───────────────────┘
                           pistons · turbines · water · secrets
@@ -141,7 +141,7 @@ The Empire's faith is **Eutaxia** (*good order*), whose gods are the **Hebdomad*
 | Sorda | **Sophras** | Wisdom, philosophy, the arcane arts, time, prophecy |
 | Sunda | **Sounia** | The sun, fire, illumination, cosmic order |
 
-*Once the Seven were **Eight**. The eighth would not keep her station.* See [`docs/religions/eutaxia.md`](docs/religions/eutaxia.md) — **drafted**.
+*Once the Seven were **Eight**. The eighth would not keep her station.* See [`docs/religions/eutaxia.md`](docs/religions/eutaxia.md) - **drafted**.
 
 </details>
 
@@ -203,9 +203,9 @@ The west keeps waiting. Storms, after all, belong to a god of **judgment**. Plan
 
 Vestrn is not one people. Its human duchies share the west with two older kindreds:
 
-- 🧔 **Dwarves** — the mountain halls of the **Duchy of Nuruu**, who speak **Duegar**. → [`docs/peoples/dwarves.md`](docs/peoples/dwarves.md)
-- 🏹 **Elves** — the great wood of the **Duchy of Hojaplata**, who speak **Ojapól**. → [`docs/peoples/elves.md`](docs/peoples/elves.md)
-- 👤 **Humans** — the Vestrn duchies and baronies, speaking **High** and **Low Vestrn**.
+- 🧔 **Dwarves** - the mountain halls of the **Duchy of Nuruu**, who speak **Duegar**. → [`docs/peoples/dwarves.md`](docs/peoples/dwarves.md)
+- 🏹 **Elves** - the great wood of the **Duchy of Hojaplata**, who speak **Ojapól**. → [`docs/peoples/elves.md`](docs/peoples/elves.md)
+- 👤 **Humans** - the Vestrn duchies and baronies, speaking **High** and **Low Vestrn**.
 
 </details>
 
@@ -216,21 +216,21 @@ Vestrn is not one people. Its human duchies share the west with two older kindre
 
 <br>
 
-Each recorded tongue is shaped after a real-world language — and because those originals belong to real families, the analogs already encode a **shared ancestry and a migration history.**
+Each recorded tongue is shaped after a real-world language - and because those originals belong to real families, the analogs already encode a **shared ancestry and a migration history.**
 
 | In-world | Homeland | Modeled on | Family |
 |---|---|---|---|
 | **High Vestrn** | Hojland | Dutch | Vestrenic *(West Germanic)* |
 | **Low Vestrn** | Sarvaald / Ríkrvollr | English | Vestrenic *(West Germanic)* |
-| **Duegar** | Nuruu | German | Vestrenic *(West Germanic)* — the dwarves |
-| **Ojapól** | Hojaplata | Spanish | Silver *(Romance)* — the elves |
+| **Duegar** | Nuruu | German | Vestrenic *(West Germanic)* - the dwarves |
+| **Ojapól** | Hojaplata | Spanish | Silver *(Romance)* - the elves |
 | **D'gento** | Valle d'argento | Italian | Silver *(Romance)* |
 | **Hskan** | Hanzith | Armenian | Hskan *(its own branch)* |
 | **Havari** | Havaari | Bulgarian | Havaric *(Slavic)* |
 | **Bahari** | Albahaar | Romani | Indic *(diaspora)* |
-| **Yona** | Southern Yavanna | Greek | Yonic *(Hellenic)* — the imperial core |
-| **Doran** | Northern Yavanna | Turkish | *— outside the family* |
-| **Myridic** | Myridian | Arabic | *— outside the family* |
+| **Yona** | Southern Yavanna | Greek | Yonic *(Hellenic)* - the imperial core |
+| **Doran** | Northern Yavanna | Turkish | *- outside the family* |
+| **Myridic** | Myridian | Arabic | *- outside the family* |
 
 ```text
 ⟨ Urspeech ⟩  (proposed common ancestor)
@@ -263,7 +263,7 @@ The two **outsider** tongues rode in from beyond the family; the rest are cousin
 
 The imperial year is **361 days, a perfect square, 19², kept as nineteen months of nineteen days.** Its **seven-day week** is named for the Seven and begins on Monda. Where week and year fail to divide, four godless days, the **Plerosis**, close the year outside the week entirely, and it is on those four days that Vestrn's prophecy waits.
 
-Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-calendar.md) — **drafted**.
+Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-calendar.md) - **drafted**.
 
 </details>
 
@@ -376,7 +376,7 @@ Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-c
 The archive tracks **two separate things**, and keeps them apart on purpose.
 
 <table>
-<tr><th>Canon status — <i>is it settled?</i></th><th>Source reliability — <i>can this narrator be trusted?</i></th></tr>
+<tr><th>Canon status - <i>is it settled?</i></th><th>Source reliability - <i>can this narrator be trusted?</i></th></tr>
 <tr><td valign="top">
 
 | | |

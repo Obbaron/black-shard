@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+
+# Note: rendered/*.html is committed on purpose - it's a browsable artifact.
+# Regenerate any time with:  python -m fcal.cli examples

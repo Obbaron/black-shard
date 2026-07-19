@@ -5,7 +5,7 @@ status: draft
 reliability: Summary; the authoritative in-world source is the Hierophancy of Sophras (see eutaxia.md), which is partisan.
 ---
 
-# The Yavanna Empire — the Looming East
+# The Yavanna Empire - the Looming East
 
 The Empire east of the [[Great Desert of Wei]]: the imperial core of **Yona** (Greek-analog south) and the northern reach of **Dora** (Turkic-analog north). Its faith is [[Eutaxia]]; its calendar is the [[Eutaxian Calendar]]; its sovereign is the deathless [[Menneus]].
 
