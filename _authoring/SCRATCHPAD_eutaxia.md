@@ -35,7 +35,7 @@ A fact with no knower cannot appear in any wiki article. It either needs a sourc
 | **The Sylvan star-cult** | NEEDED, STUB | Ancient fixed-sky religion of Sylvargenta (sundered: Valle d'argento + Hoja plata). Inverse of Eutaxia. Oldest voice in the setting. | The wanderers; anything that moves. |
 | **The Taxis** (clerical org) | NEEDED (`taxis.md`) | Administrative. | Itself. |
 
-### Languages and real-world analogs [CANON - from "Languages of Weilan" sheet]
+### Languages and real-world analogs [CANON — from "Languages of Weilan" sheet]
 
 The world is **Weilan**. Eleven most-common languages:
 
@@ -61,26 +61,26 @@ The world is **Weilan**. The empire's shape:
 
 - **Imperial core = Southern Yavanna** (Yona-speaking, Greek analog). The heart. Where the Hebdomad, the Hierophancy, and the throne sit.
 - **Northern Yavanna = the former nation of Dora** (Doran-speaking, Turkish analog), **now absorbed into the empire.** A conquered/annexed nation, not an original founder-kingdom in the same sense as the core.
-- **The Great Desert of Wei** - the desert Yavanna crossed to reach Vestrn. Named. (Severance War = the crossing of Wei.)
-- **A distant satellite across the Great Desert of Wei** - another far imperial holding, **barely seen in the setting** because the setting is written largely from the **Vestrn** side and Vestrn has little exposure to it. [STUB - unnamed distant satellite]
+- **The Great Desert of Wei** — the desert Yavanna crossed to reach Vestrn. Named. (Vestrn War = the crossing of Wei.)
+- **A distant satellite across the Great Desert of Wei** — another far imperial holding, **barely seen in the setting** because the setting is written largely from the **Vestrn** side and Vestrn has little exposure to it. [STUB — unnamed distant satellite]
 
 **NARRATIVE POV [CANON]:** the setting is generally told **from the Vestrn perspective.** Consequences:
 - Vestrn, the Duchies, Olmund, and the western frontier are well-lit.
 - The imperial core (Southern Yavanna) is seen from *outside*, at a distance, as the looming power.
-- **The far satellite across Wei is almost dark** - rumored, not witnessed. Good place to keep mysteries.
+- **The far satellite across Wei is almost dark** — rumored, not witnessed. Good place to keep mysteries.
 
 **Load-bearing for the religion so far:**
 
-- **Yavanna is two-tongued, and the two tongues are two regions.** **Yona** (Southern / core / Greek) + **Doran** (Northern / former Dora / Turkish). The Hellenic god-names are Yona. The *sūrya*/*vajra*/Chakravartin/Dharmachakra stratum is older and Indic-rooted - **candidate: it came in via Dora / the north**, or predates both. [OPEN: pin where the Indic substrate entered.]
+- **Yavanna is two-tongued, and the two tongues are two regions.** **Yona** (Southern / core / Greek) + **Doran** (Northern / former Dora / Turkish). The Hellenic god-names are Yona. The *sūrya*/*vajra*/Chakravartin/Dharmachakra stratum is older and Indic-rooted — **candidate: it came in via Dora / the north**, or predates both. [OPEN: pin where the Indic substrate entered.]
 - **D'gento** (Valle d'argento, Italian) and **Ojapól** (Hoja plata, Spanish) are the **two sundered halves of ancient Sylvargenta**, the silver-forest elven kingdom, whose tongue was **Sylvan** (Latin analog). *Vertex* and the Court of the Unmoving are Sylvan fossils. See §2, Court of the Unmoving. Modern D'gento/Ojapól : Sylvan :: Italian/Spanish : Latin.
-- **Vestrn is two registers, both Germanic:** **High Vestrn** (Hojland, Dutch) and **Low Vestrn** (Sarvaald/Ríkrvollr, English). The area-names read Norse. `calendar.json`'s -da/-das months and *Bordas* sit comfortably here - **and given the Vestrn POV, the file being a Vestrn almanac is now the leading read.**
+- **Vestrn is two registers, both Germanic:** **High Vestrn** (Hojland, Dutch) and **Low Vestrn** (Sarvaald/Ríkrvollr, English). The area-names read Norse. `calendar.json`'s -da/-das months and *Bordas* sit comfortably here — **and given the Vestrn POV, the file being a Vestrn almanac is now the leading read.**
 
 **Not yet connected to the religion (leads):**
 Duegar (German), Bahari (Romani), Havari (Bulgarian), Hskan (Armenian), Ojapól (Spanish), Myridic (Arabic). Six cultures with no role assigned yet. **The distant satellite across Wei may be one of these.**
 
 > **[VERIFY]** Diacritics/spellings transcribed from a screenshot: Ríkrvollr, Ojapól, Hoja plata, Albahaar, Hanzith. Confirm against source.
 
-> **[OPEN]** The **Finno-Ugric** thread (Iso/Sisar/Kuu in `calendar.json`) does NOT appear in this list. Either a twelfth people not in the "most common" set, or the file really is a foreign/older almanac. Note *Nuruu* (Duegar's area) has a Uralic/Mongolic look but Duegar's analog is German - so the Finno-Ugric moon-names remain unplaced.
+> **[OPEN]** The **Finno-Ugric** thread (Iso/Sisar/Kuu in `calendar.json`) does NOT appear in this list. Either a twelfth people not in the "most common" set, or the file really is a foreign/older almanac. Note *Nuruu* (Duegar's area) has a Uralic/Mongolic look but Duegar's analog is German — so the Finno-Ugric moon-names remain unplaced.
 
 ---
 
@@ -225,7 +225,7 @@ Before the Unification, the Yavanna were **disparate kingdoms** (author's German
 
 ### The classical spine [CANON]
 
-The seven day-gods **are** the seven classical wanderers (sun + moon + 5 planets) - which is literally where the real-world 7-day week comes from, and both Greek and Indic astronomy built their weeks on exactly these. So "divinity is the calendar" is now literal: to hold a day and to be a wandering light are the same fact seen twice.
+The seven day-gods **are** the seven classical wanderers (sun + moon + 5 planets) — which is literally where the real-world 7-day week comes from, and both Greek and Indic astronomy built their weeks on exactly these. So "divinity is the calendar" is now literal: to hold a day and to be a wandering light are the same fact seen twice.
 
 ### The 8 Wanderers
 
@@ -233,7 +233,7 @@ The seven day-gods **are** the seven classical wanderers (sun + moon + 5 planets
 |---|---|---|---|---|
 | 1 | The sun | **Sounia** (Dharmachakra) | Sunda | Luminary |
 | 2 | **Monē**, the great moon | **Monas** | Monda | 27-day cycle. "Abiding." The moon came first; Monas named FOR it. |
-| 3 | The small moon | **Mania / Lysia** | *(none)* | 14-day cycle: 7 out, 7 back. A pendulum, not an orbit. **A wanderer with no day** - now a precise astronomical statement, not only a theological one. |
+| 3 | The small moon | **Mania / Lysia** | *(none)* | 14-day cycle: 7 out, 7 back. A pendulum, not an orbit. **A wanderer with no day** — now a precise astronomical statement, not only a theological one. |
 | 4 | *planet (stub)* | **Theureus** | Tuesda | domains: sovereignty, war |
 | 5 | *planet (stub)* | **Firēs** | Wirsda | domains: wind, messages, travel |
 | 6 | *planet (stub)* | **Barjas** | Horda | domains: storms, judgment |
@@ -242,11 +242,11 @@ The seven day-gods **are** the seven classical wanderers (sun + moon + 5 planets
 
 > **[STUB]** The five planets (4–8) have gods and domains but no physical/observational character yet. Real planetary traits can be assigned later (red wanderer → war-god, swift near-sun wanderer → messenger, slow distant wanderer → the wise elder, etc.).
 
-> **The moons need Yavanna names.** `calendar.json` uses Iso/Sisar, which are Finno-Ugric (*iso*=big, *sisar*=sister, *kuu*=moon) and therefore **another culture's** words. Lead, not error - possibly Vestrn.
+> **The moons need Yavanna names.** `calendar.json` uses Iso/Sisar, which are Finno-Ugric (*iso*=big, *sisar*=sister, *kuu*=moon) and therefore **another culture's** words. Lead, not error — possibly Vestrn.
 
 ### The 11 Fixed Bodies
 
-Where the wanderers have stories, **the fixed bodies are the ideal**: bodies that never leave their station. They are the cosmic image of caste - what every caste-holder is meant to imitate, and what Mania refused to be. Eleven lights that have never once wandered, hanging over eight that do nothing else.
+Where the wanderers have stories, **the fixed bodies are the ideal**: bodies that never leave their station. They are the cosmic image of caste — what every caste-holder is meant to imitate, and what Mania refused to be. Eleven lights that have never once wandered, hanging over eight that do nothing else.
 
 | # | Body | Type | Notes |
 |---|---|---|---|
@@ -261,19 +261,19 @@ Where the wanderers have stories, **the fixed bodies are the ideal**: bodies tha
 - Sanskrit **vartin** ("turner") and Latin **vertex** share the PIE root **\*wert-**, "to turn."
 - *vertex* in real Latin meant: a whirl/eddy (water), the crown of the head (the top), and **the pole of the heavens** (the fixed point the sky turns around).
 
-So: **Chakravartin** = the one who *turns* the wheel. **Vertex** = the still point it turns *around*. Same root, opposite motion - cognate the way *convert* and *vertigo* are.
+So: **Chakravartin** = the one who *turns* the wheel. **Vertex** = the still point it turns *around*. Same root, opposite motion — cognate the way *convert* and *vertigo* are.
 
 > This implies a **lost common ancestor tongue** behind the Indic-rooted founders and ancient **Sylvan** (the tongue of Sylvargenta). *Vertex* is a Sylvan fossil, carried now in the sundered survivors D'gento and Ojapól; modern speakers may no longer parse it. It is a second, independent proof (alongside the borrowed constellations below) that these peoples touched long ago. **Never glossed in-world.** For the reader and the philologists to find.
 
-### The River Nel [CANON - cross-cultural]
+### The River Nel [CANON — cross-cultural]
 
 **The Nel is the source of souls**, and **nearly every culture calls it Nel** (the name is cross-cultural). River water becomes a soul, lives in a mortalkin for a time, then **returns to the river** (or to a deity, if the mortalkin worshipped one).
 
 **Its celestial form is also called Nel** (same name up and down). The band of stars *is* the Nel seen from below; the river on earth and the river in the sky are one river in two aspects.
 
-> **The collision with Eutaxia, for free:** the Nel is a river of **flowing, returning** souls - the turning, cyclical cosmology of the old world, written permanently across the sky as one of the 19 bodies. Menneus dammed the Nel *in himself* (the stagnant-river body). **But the Nel overhead keeps flowing, uncensorable, one of the fixed nineteen the census cannot drop.** The evidence against him is a constellation.
+> **The collision with Eutaxia, for free:** the Nel is a river of **flowing, returning** souls — the turning, cyclical cosmology of the old world, written permanently across the sky as one of the 19 bodies. Menneus dammed the Nel *in himself* (the stagnant-river body). **But the Nel overhead keeps flowing, uncensorable, one of the fixed nineteen the census cannot drop.** The evidence against him is a constellation.
 
-### The Court of the Unmoving - the Dii [CANON; details in SCRATCHPAD_sideria.md]
+### The Court of the Unmoving — the Dii [CANON; details in SCRATCHPAD_sideria.md]
 
 The nine fixed figures are the **Dii** (sing. *Dius*), collectively the **Court of the Unmoving**: the constellations of **Sideria**, the ancient star-faith of Sylvargenta. A cult of the **fixed** sky, the exact inverse of Eutaxia. A schism (the "Zeroth") adds **Vacuus**, the void, as a 0th before the nine.
 
@@ -282,7 +282,7 @@ The nine fixed figures are the **Dii** (sing. *Dius*), collectively the **Court 
 - The **Dii are the 9 fixed figures** of the census. With **Vertex** (pole) and the **Nel** (star-river), they make the **11 fixed bodies**. **9 Dii + Vertex + Nel = 11 fixed; + 8 wanderers = 19.** ✓
 - **Star-names are Sylvan fossils.** Yavanna borrowed the star-*names* (Vertex among them) without the star-*religion*.
 - **Cultural-transfer fingerprint:** Sanskrit *vartin* (Chakravartin) and Sylvan *vertex* are cognate (shared "to turn" root) → a lost common ancestor tongue behind the Yavanna Indic stratum and ancient Sylvan. Plus the borrowed constellations. Two proofs the peoples touched before Yavanna existed. **Never glossed in-world.**
-- **The blight that made the Great Desert of Wei** (and sundered Sylvargenta) is the same desert **Yavanna later crossed to invade Vestrn**. Blight-god UNDECIDED - see `SCRATCHPAD_sideria.md`; if it turns out to be Barjas or another Hebdomad member, it wires the elven catastrophe into Eutaxia.
+- **The blight that made the Great Desert of Wei** (and sundered Sylvargenta) is the same desert **Yavanna later crossed to invade Vestrn**. Blight-god UNDECIDED — see `SCRATCHPAD_sideria.md`; if it turns out to be Barjas or another Hebdomad member, it wires the elven catastrophe into Eutaxia.
 
 > Full Sideria material (theology of stillness, the cycling Nel, the Zeroth schism, Vacuus, Sylvargenta's sundering, the D'gento antiquarian source, all open slots) now lives in **`SCRATCHPAD_sideria.md`**.
 
@@ -317,9 +317,9 @@ The nine fixed figures are the **Dii** (sing. *Dius*), collectively the **Court 
 
 In an empire assembled from free kingdoms and held together by oath, *to unbind* means:
 
-- **Secession** - loose a people from the union
-- **Succession** - loose a crown from a corpse
-- **Manumission** - loose a man from his caste
+- **Secession** — loose a people from the union
+- **Succession** — loose a crown from a corpse
+- **Manumission** — loose a man from his caste
 
 **These are one act.** She is the name of it.
 
@@ -437,19 +437,19 @@ The conjunction falls within the four dayless days **4 times per 378-year Great 
 
 Inherited, **pre-Yavanna**, from the Indic-rooted founding stratum (same layer as Sounia/*sūrya* and Barjas/*vajra*). Untranslated in-world by design: *a title one cannot quite translate is a title no one can quite question.*
 
-- **Chakravartin** - Menneus, keeper of the **civic** order.
-- **Dharmachakra** (धर्मचक्र, "wheel of law") - **Sounia**, keeper of the **cosmic** order. Her full style is **Sounia Dharmachakra**.
+- **Chakravartin** — Menneus, keeper of the **civic** order.
+- **Dharmachakra** (धर्मचक्र, "wheel of law") — **Sounia**, keeper of the **cosmic** order. Her full style is **Sounia Dharmachakra**.
 - The two titles map exactly onto the Two Orders, and they are the two oldest words in the religion.
 
-He is **not a god** (a god holds a day; he holds none). He is **not a man** (a man holds a station; he holds none, he wrote them). He is the **second power in heaven and earth**, *above* the day-holding gods in authority but *below* them in divinity. **Venerated, never worshipped** - most policed line in Eutaxia (cf. latria vs dulia); Klerarchs punish praying *to* him vs *for* him.
+He is **not a god** (a god holds a day; he holds none). He is **not a man** (a man holds a station; he holds none, he wrote them). He is the **second power in heaven and earth**, *above* the day-holding gods in authority but *below* them in divinity. **Venerated, never worshipped** — most policed line in Eutaxia (cf. latria vs dulia); Klerarchs punish praying *to* him vs *for* him.
 
 **Why keeper-of-civic-order and not the eighth god:** *he obeyed the cosmic order perfectly.* That obedience is the whole of his greatness and the reason he ranks beside divinity without entering it.
 
 **Structural point:** Chakravartin and the Enemy are **the only two powers with no day.** He took her out of the eight and stands where she stood.
 
-### THE WHEEL / WEAVE RULE [CANON - imagery law for the whole setting]
+### THE WHEEL / WEAVE RULE [CANON — imagery law for the whole setting]
 
-**Both titles mean WHEEL. Eutaxia has no wheels.** The faith's imagery is the **weave, the lattice, the binding, the closed square** - stillness and fixity. The wheel belongs to the **old turning world**.
+**Both titles mean WHEEL. Eutaxia has no wheels.** The faith's imagery is the **weave, the lattice, the binding, the closed square** — stillness and fixity. The wheel belongs to the **old turning world**.
 
 | WHEEL / turning / cycle / return | WEAVE / lattice / binding / square |
 |---|---|
@@ -457,9 +457,9 @@ He is **not a god** (a god holds a day; he holds none). He is **not a man** (a m
 | The 8-day world that revolved | The 361-lattice pinned in place |
 | The year that came back to her | Time woven still |
 
-**The buried irony (NEVER stated in orthodox voice):** the man titled *wheel-turner* is the man who **stopped the wheel** - wove time still, bound the loosing, and does not himself move (still water, the great blockage). He kept the crown of the turning world and outlawed its motion. The orthodox have forgotten *Chakravartin* ever meant "turner." The Reckoners have not. **Let the reader feel it; do not point at it.**
+**The buried irony (NEVER stated in orthodox voice):** the man titled *wheel-turner* is the man who **stopped the wheel** — wove time still, bound the loosing, and does not himself move (still water, the great blockage). He kept the crown of the turning world and outlawed its motion. The orthodox have forgotten *Chakravartin* ever meant "turner." The Reckoners have not. **Let the reader feel it; do not point at it.**
 
-> The **Axon / axle** idea survives as the *Reckoner gloss*: orthodoxy says *Chakravartin, wheel-turner, sovereign*; the Reckoners say *he is no turner - he is the axle that will not move, and he has jammed the wheel of the world.*
+> The **Axon / axle** idea survives as the *Reckoner gloss*: orthodoxy says *Chakravartin, wheel-turner, sovereign*; the Reckoners say *he is no turner — he is the axle that will not move, and he has jammed the wheel of the world.*
 
 
 **Character:** pathetic at heart, stuck in Theureus's shadow, but sly and cunning. **He knows the mathematics.** He did not choose 361 by luck.
@@ -468,7 +468,7 @@ He is **not a god** (a god holds a day; he holds none). He is **not a man** (a m
 
 **His name is of Monē's root.** He has taken the Abiding Moon's virtue into his own name.
 
-**His patron is Monas** - the brother left standing when the sister was cut away. **He is not venerating solitude. He is venerating the survivor of a severance he himself performed.**
+**His patron is Monas** — the brother left standing when the sister was cut away. **He is not venerating solitude. He is venerating the survivor of a severance he himself performed.**
 
 **He moved the head of the week from Sunda to Monda** so that every week in the empire begins with his god.
 
@@ -488,7 +488,7 @@ He is **not a god** (a god holds a day; he holds none). He is **not a man** (a m
 
 ### The mechanism of the immortality [CANON: THE SEVERANCE]
 
-**IT IS THE SEVERANCE. Not a drug. (Dragon-BLOOD-immortality MECHANISM is dead - killed by author. But dragons-the-creatures are CANON: Vestrn-native, now the symbol of Old Vestrn / the rising. See the Vestrn material.)**
+**IT IS THE SEVERANCE. Not a drug. (Dragon-BLOOD-immortality MECHANISM is dead — killed by author. But dragons-the-creatures are CANON: Vestrn-native, now the symbol of Old Vestrn / the rising. See the Vestrn material.)**
 
 **Death is a loosing.** The soul unbound from the body; the drop returned to the flow. And every loosing was **Lysia's**.
 
@@ -498,23 +498,23 @@ He exiled her from time. **So death has no day on which to arrive.** He is not s
 
 > This is TRUE, and the Hierophancy states it correctly and sincerely. What they redact is not how it works but what it COST (the Night). Mechanism and crime are separate matters.
 
-### The stagnant river [CANON - controlling image; authorial, not in-world doctrine]
+### The stagnant river [CANON — controlling image; authorial, not in-world doctrine]
 
 Water = life / souls throughout the setting. Death = the loosing, the drop rejoining the current.
 
 **Menneus dammed the loosing in himself.** The river of souls reaches him and **stops.** He is the one point in creation where the flow does not move.
 
-**Still water stagnates.** 812 years of dammed, motionless soul-water has done to his body what still water does. **Mighty, powerful, holy - and shrivelled, mutated, wrong.** At over 800 years old he is almost certainly **no longer human**: human is a thing that flows, and he stopped.
+**Still water stagnates.** 812 years of dammed, motionless soul-water has done to his body what still water does. **Mighty, powerful, holy — and shrivelled, mutated, wrong.** At over 800 years old he is almost certainly **no longer human**: human is a thing that flows, and he stopped.
 
 **The aging is horror, for the themes.** Not diagnostic. Not a countdown. Not a supply problem. Simply what still water does, rendered in a body. No deeper mechanism, and that is the point.
 
-> Quietly answers *where do the dead go?* - into the flow and out again, except at the one place the flow was stopped.
+> Quietly answers *where do the dead go?* — into the flow and out again, except at the one place the flow was stopped.
 
 ### The Emperor's face [CANON]
 
 He is ancient and in obvious disrepair. But **almost nobody lays eyes on him**, and those few who do read the ruin as **holy**, not as decay. The stopped-river truth is **authorial**; in-world it is only ever "the Emperor is ancient, holy, and not discussed."
 
-The church's doctrine for it (sincere, and now - under Severance-immortality - *almost true*):
+The church's doctrine for it (sincere, and now — under Severance-immortality — *almost true*):
 
 > *He does not age as mortalkin age. Mortalkin age because they move; the water passes through them and one day passes for the last time. The Emperor is not moving. He holds it back from you. His face is the price of your peace.*
 
@@ -537,7 +537,7 @@ The church is **complicit in the Night** and **sincere about the miracle**. No "
 
 ### THE LYSIAN NIGHT [CANON: SECURITY, NOT SORCERY]
 
-**He did not sacrifice them. He exterminated them.** No bargain, no price paid to a power. **A threat, an opportunity, and he took it.** (This stands regardless of the immortality mechanism - the Night is about *amending the compact*, not about buying life.)
+**He did not sacrifice them. He exterminated them.** No bargain, no price paid to a power. **A threat, an opportunity, and he took it.** (This stands regardless of the immortality mechanism — the Night is about *amending the compact*, not about buying life.)
 
 **Why they had to die:**
 
@@ -571,7 +571,7 @@ The last conjunction of the old calendar. The old New Year. **Every one of them 
 ### The unmaking of his name [CANON]
 
 > *"On that day, the man who was became Menneus. His original name is forgotten. Burned from history, for Menneus was born both forward and backwards through time."*
-> - the Ledger
+> — the Ledger
 
 **DO NOT NAME HIM.** Not even in a footnote. The moment a real answer exists, the erasure becomes trivia instead of a fact about the world.
 
@@ -591,7 +591,7 @@ The world should have a **detectable, unfillable absence**: a gap in the general
 
 ---
 
-## 7. THE SEVERANCE WAR
+## 7. THE VESTRN WAR
 
 ### The war [CANON, author's]
 
@@ -659,9 +659,9 @@ Theureus won an empire by conquest and became a god. Menneus won a war **by acci
 
 **Anaxas, Taxiarch Concordant.**
 
-- **Anaxas** - ἄναξ, "lord." Ancient, unadorned.
-- **Taxiarch** - ταξίαρχος, the commander of a *taxis* (a battle-formation). **The Eutaxian church is not a fatherhood. It is a chain of command.** "Pope" is wrong because it means *father*.
-- **Concordant** - **not a passive title.** It does not mean *he who observes that the orders agree*. It means **he who makes them agree.**
+- **Anaxas** — ἄναξ, "lord." Ancient, unadorned.
+- **Taxiarch** — ταξίαρχος, the commander of a *taxis* (a battle-formation). **The Eutaxian church is not a fatherhood. It is a chain of command.** "Pope" is wrong because it means *father*.
+- **Concordant** — **not a passive title.** It does not mean *he who observes that the orders agree*. It means **he who makes them agree.**
 
 > **The trap in the title:** a man styled *Concordant* presides over an empire whose sovereign is the one object in it that **cannot be made to** resemble the heavens. His entire office is a failure in progress.
 
@@ -693,13 +693,13 @@ Theureus won an empire by conquest and became a god. Menneus won a war **by acci
 
 ### The non-command orders [PROPOSED]
 
-- **Skopoi** (σκοποί, *the watchers*) - astronomer-priests of **Sounia**. Command nothing. **The only men permitted to say what the sky is doing.**
-- **Klerarchs** (κληράρχοι, *the allotters*) - of **Theureus**. **They assign caste.** Feared out of all proportion to rank.
-- **Hierophants** - of **Sophras**. Prophecy, arcana, and the calendar's mathematics. **The only Eutaxians who can compute the conjunction.**
+- **Skopoi** (σκοποί, *the watchers*) — astronomer-priests of **Sounia**. Command nothing. **The only men permitted to say what the sky is doing.**
+- **Klerarchs** (κληράρχοι, *the allotters*) — of **Theureus**. **They assign caste.** Feared out of all proportion to rank.
+- **Hierophants** — of **Sophras**. Prophecy, arcana, and the calendar's mathematics. **The only Eutaxians who can compute the conjunction.**
 
 ### THE FAULT LINE [CANON]
 
-**The only Eutaxians who can compute the conjunction are the Hierophants of Sophras - who are the authors of `eutaxia.md`.**
+**The only Eutaxians who can compute the conjunction are the Hierophants of Sophras — who are the authors of `eutaxia.md`.**
 
 Every generation, a handful of them must work out precisely what Menneus erased, and precisely how well it still runs. **They are the only men in the imperial church equipped to understand the heresy, because their office requires them to.**
 
@@ -711,13 +711,65 @@ Every generation, a handful of them must work out precisely what Menneus erased,
 
 ### Fixed [CANON]
 
-- **19 months of 19 days = 361**
+- **19 months of 19 days = 361**, + the **Plerosis** (4 dayless days) at the year's end = 365.
 - **19 = the census of heaven** (8 wanderers + 11 fixed). See §2. The year is the sky's body-count squared: 19² = 361. This is what grounds the number.
 - **Week of 7**, beginning **Monda** (= the 7 day-holding wanderers; the 8th wanderer, Mania, holds no day)
 - **51 weeks + the Plerosis (4 dayless days)**
-- **Month I: Monarchē** (μονή + ἀρχή, "the Abiding Beginning"; also audibly *monarchy*)
-- **Month II: Theurion** (the founder's month)
-- **Month III: Desmia** (δεσμός, "bond, fetter, chain") - **named AT Lysia.** δεσμός is the exact antonym of λύσις. **Every year the empire spends nineteen days celebrating the word that means *she is chained*.**
+- **Year and week both always begin on Monda** (1 Monarchē).
+
+**The 19 months, and their day-ranges** (month n = days 19(n-1)+1 .. 19n):
+
+| # | Month | Days | For |
+|---|---|---|---|
+| 1 | **Monarchē** | 1–19 | Monas (μονή + ἀρχή, "the Abiding Beginning"; also audibly *monarchy*) |
+| 2 | Theurion | 20–38 | Theureus |
+| 3 | Wireon | 39–57 | Firēs |
+| 4 | Barjon | 58–76 | Barjas |
+| 5 | Phiron | 77–95 | Phira |
+| 6 | Sophron | 96–114 | Sophras |
+| 7 | **Sounion** | 115–133 | Sounia (the SUN-month; holds the summer solstice) |
+| 8 | Menneon | 134–152 | Menneus (the Emperor) |
+| 9 | Verteon | 153–171 | star-fossil (Vertex) |
+| 10 | Silvon | 172–190 | star-fossil (Silva) |
+| 11 | Taleon | 191–209 | star-fossil (Talea) |
+| 12 | Memron | 210–228 | star-fossil (Memor) |
+| 13 | Larikon | 229–247 | star-fossil (Larix) |
+| 14 | Limeon | 248–266 | star-fossil (Limes) |
+| 15 | Phornakon | 267–285 | star-fossil (Fornax) |
+| 16 | Undon | 286–304 | star-fossil (Unda) |
+| 17 | Skepson | 305–323 | star-fossil (Scepsis) |
+| 18 | **Hasaton** | 324–342 | Doran *hasat*, "harvest" (deep autumn) |
+| 19 | **Desmia** | 343–361 | δεσμός, "bond, fetter, chain" — **named AT Lysia.** The antonym of λύσις. The year shuts on the word that means *she is chained*. |
+|   | *Plerosis / Bordas* | 362–365 | the 4 dayless days; deep midwinter |
+
+> **Note:** Desmia is month **19** (the closing month), not month III. Any older note calling it "Month III" is stale.
+
+### The Seasons [CANON: solar, sun-anchored, cut across months]
+
+**Design decision: Option A.** The Yona keep **four astronomical seasons**, fixed to the **sun** (solstices + equinoxes), NOT to the crop. The Hierophancy are sky-watchers; they anchor the year on the sun, and the season-boundaries therefore fall **inside months**, not at month edges. The lattice-loving empire has seasons that refuse to sit on its grid, the same raggedness the Plerosis shows.
+
+**Keystone:** the **summer solstice sits in Sounion (month 7), the sun's own month.** The god of the sun holds the day the sun is highest. Everything else derives from this.
+
+**The four markers** (each season begins on its marker; ~91 days apart):
+
+| Season | Begins | Marker | Length |
+|---|---|---|---|
+| **Spring** | Theurion 14 (mo. 2, day 33) | vernal equinox | 91 days |
+| **Summer** | Sounion 10 (mo. 7, day 124) | summer solstice | 91 days |
+| **Autumn** | Memron 6 (mo. 12, day 215) | autumnal equinox | 91 days |
+| **Winter** | Skepson 2 (mo. 17, day 306) | winter solstice | 92 days |
+
+(The extra day falls to winter, which also swallows the 4 Bordas and the New Year.)
+
+**Consequences worth keeping:**
+- **Hasaton (harvest, mo. 18)** falls in **deep autumn**, ~6 weeks after the equinox: a late, in-before-the-frost harvest, set right against the year's death. Anchoring on the sun (not the harvest) is what buys this; the two pegs sit ~5 weeks apart on purpose.
+- **The year dies and is reborn in the dark.** Winter solstice (Skepson) → harvest (Hasaton) → the Binding (Desmia, the year chained shut) → the **4 Bordas in the pit of midwinter** → New Year on Monarchē 1. The great Plerosis festival is a **midwinter/solstice festival** (Saturnalia/Yule shape).
+- **The Vestrn storm-on-the-Bordas prophecy is now a MIDWINTER omen**, the dead of the year, the most natural time for a world-ending sign. (See `SCRATCHPAD_vestrn.md` / the chronicle.)
+- **The lattice discomfort is a feature.** Seasons cut mid-month; the empire that squared the year and closed the week cannot make the seasons sit on the grid. A Hierophant would file this beside the Plerosis: a raggedness the sky imposes that no reform can tidy.
+
+> **[OPEN] Fixed vs computed markers.** Are the solstice/equinox days FIXED (Sounion 10, etc.) or do they drift slightly and get **computed** each year like the conjunction? Fixed = tidier, more imperial. Computed = another thing only the Skopoi/Hierophants can do, reinforcing their monopoly. Leaning fixed for the civic calendar, with the Skopoi quietly correcting drift. UNDECIDED.
+
+> **[OPEN / FAULT LINE] Vestrn/Vanir seasons.** These solar seasons are the imperial way. A farming Vestrn or a Vanir almanac would likely reckon by **sowing and frost** (agricultural seasons beginning at the crop, not the solstice), giving a conqueror/conquered split. Route to `SCRATCHPAD_vestrn.md` when developed.
 
 ### [OPEN] Sixteen months unnamed.
 
@@ -786,11 +838,11 @@ Their heresy is not *"there is no cosmic order."* It is:
 
 Beyond the core the two collapse into **one figure**: a god of oaths, love, and safe passage, invoked by merchants and lovers alike, **who carries what is promised and binds what is carried.** Provincial shrines show a single figure with a rainbow across the shoulder.
 
-**The priesthood calls this a barbarism, and the objection is not pedantry. Phira binds. Firēs carries.** To fuse them is to say a promise and a journey are the same thing - and **the whole architecture of the sacred oath, on which the caste order depends, requires that they are not.**
+**The priesthood calls this a barbarism, and the objection is not pedantry. Phira binds. Firēs carries.** To fuse them is to say a promise and a journey are the same thing — and **the whole architecture of the sacred oath, on which the caste order depends, requires that they are not.**
 
 **A peasant laying a wreath at a border shrine is performing, without knowing it, the first movement of the heresy.**
 
-**It is a residue of the Severance War.** Every heresy on the western frontier runs downstream of it.
+**It is a residue of the Vestrn War.** Every heresy on the western frontier runs downstream of it.
 
 ---
 
@@ -822,9 +874,9 @@ Beyond the core the two collapse into **one figure**: a god of oaths, love, and 
 
 *Raw material. Voice, not canon.*
 
-- *"I have watched the sky for sixty years and never once seen it disobeyed. Then I come down from the tower, and I walk into the city."* - Anaxas
-- *"On that day, the man who was became Menneus. His original name is forgotten. Burned from history, for Menneus was born both forward and backwards through time."* - the Ledger
-- *"When the runaway sister is caught, upon a day that has no god, and the Judge speaks even so..."* - Vestrn
+- *"I have watched the sky for sixty years and never once seen it disobeyed. Then I come down from the tower, and I walk into the city."* — Anaxas
+- *"On that day, the man who was became Menneus. His original name is forgotten. Burned from history, for Menneus was born both forward and backwards through time."* — the Ledger
+- *"When the runaway sister is caught, upon a day that has no god, and the Judge speaks even so..."* — Vestrn
 - **They took her day. So she takes them all, one at a time.**
 - **He is not immortal. He is overdrawn.**
 - **A god without a day is not a god.**
