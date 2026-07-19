@@ -2,7 +2,7 @@
 
 # ✦ The Black Shard ✦
 
-> *"On the western shore, the sea at your back and the sand a month away, the last land the Empire swallowed."*
+> *"On the Vestrn shore, the sea at your back and the sand a month away; this is the last land the Empire has not troubled to swallow."*
 
 ![Status](https://img.shields.io/badge/status-under_construction-orange?style=for-the-badge)
 ![Stage](https://img.shields.io/badge/stage-pre--alpha-blue?style=for-the-badge)
@@ -37,11 +37,13 @@
 
 ## 🌍 What is this?
 
-**The Black Shard** is a high fantasy poltically flavored universe.
+**The Black Shard** is a paracosm — an original universe documented from its cosmology down to the argument two priests are having about a single day of the year.
 
-Its stage is the continent of **Weilan**, and its heart is the **west**: the shattered **Duchies of Vestrn**, on the far shore beyond the Great Desert of Wei. Vestrn is a land of warring dukes and baronies, of dwarven halls and elven wood, of a faith the Empire calls barbarous. The **Yavanna Empire** is not the subject here. It is the weather on the eastern horizon: vast, ancient, deathless, and — for now — content to leave the west mostly alone.
+Its stage is the continent of **Weilan**, and its heart is the **west**: the shattered **Duchies of Vestrn**, on the far shore beyond the Great Desert of Wei. This is home ground — a land of dukes and baronies, of dwarven halls and elven wood, of a faith the Empire calls barbarous. The **Yavanna Empire** is not the subject here. It is the weather on the eastern horizon: vast, ancient, deathless, and — for now — content to leave the west mostly alone.
 
-This repository is Weilan's canonical archive, but not a wiki of settled facts. It is a **collection of testimony**. Primary sources conflict, each written from inside some faith, court, or grievance. No single document here is *the truth.* The truth is what survives being read against everything else.
+> *There is no "Black Shard" within the world. In-world this is **Weilan**, and its western reach is **Vestrn**. The title belongs to the archive — though there is, as it happens, a place called **The Shard** on Vestrn's southern shore.*
+
+This repository is Weilan's canonical archive. But it is **not** a wiki of settled facts. It is a **collection of testimony** — primary sources that contradict one another, each written from inside some faith, court, or grievance. No single document here is *the truth.* The truth is what survives being read against everything else.
 
 ---
 
@@ -49,12 +51,12 @@ This repository is Weilan's canonical archive, but not a wiki of settled facts. 
 
 ## 🛡 The West — the Duchies of Vestrn
 
-Once there stood the mighty **Kingdom** of Vestrn.
+Once there was a **Kingdom** of Vestrn. There is not one now.
 
-At the conclusion of the **Severance War**, the kingdom was broken and forbidden ever to raise a king again, its crown struck into a scatter of duchies and baronies, no duke permitted more than one. In exchange, the west was left its own: its lords, its rainbow-shouldered goddess, its long memory. The Empire watches from across the sand and, mostly, does not reach. **Mostly.**
+In the **Severance War** the kingdom was broken and forbidden ever to raise a king again — its crown struck into a scatter of duchies and baronies, no duke permitted more than one. In exchange, the west was left to govern itself: its lords, its courts, its long memory — though not its gods, for the Severance outlawed the old faith along the way. The Empire watches from across the sand and, mostly, does not reach. **Mostly.**
 
 <details>
-<summary><b>🏰 The Duchies & Baronies</b>The realms of the west</summary>
+<summary><b>🏰 The Duchies & Baronies</b> — the realms of the west</summary>
 
 <br>
 
@@ -76,13 +78,13 @@ At the conclusion of the **Severance War**, the kingdom was broken and forbidden
 </details>
 
 <details>
-<summary><b>🌈 The Faith of the West</b>One god where the Empire counts two</summary>
+<summary><b>⚔️ The Faith of the West</b> — an outlawed goddess and a collaborator church</summary>
 
 <br>
 
-Where the Empire's liturgy keeps **Firēs** (wind, travel, messages) and **Phira** (love, oaths, union) strictly apart, the Duchies have long since let the two names fall together. Vestrn shrines show a **single figure with a rainbow across the shoulder** — a god of oaths, love, and safe passage all at once, invoked by merchants and lovers with equal confidence.
+The Duchies' old native faith is **Vanirism**, headed by **Lysara the War-Maiden**, who rode before the host and chose who would fall. The **Severance outlawed it**: her altars were thrown down and her name is now said low, or not at all. In its place the Empire raised **Aesirism** — a sanctioned "native" church whose priests bless the imperial months and teach that Lysara was a demon — so that the hand holding the west down wears a Vestrn face. Above both stands imperial **Eutaxia** and its calendar.
 
-The imperial clergy call this a **barbarism**, and insist the confusion is a slow-growing heresy. The west calls it home. See [`docs/religions/vestrn-faith.md`](docs/religions/vestrn-faith.md) *(planned)*.
+*(The imperial tale of a "rainbow-shouldered" god muddling Firēs and Phira is an outsider's misreading of the frontier, not the Vanir faith.)* See [`docs/religions/vestrn-faith.md`](docs/religions/vestrn-faith.md).
 
 </details>
 
@@ -255,13 +257,13 @@ The two **outsider** tongues rode in from beyond the family; the rest are cousin
 ## 🗓 The Calendar
 
 <details>
-<summary><b>The Eutaxian year</b> — 361 days, seven gods, two moons</summary>
+<summary><b>The Eutaxian year</b> — 361 days, nineteen months, seven gods</summary>
 
 <br>
 
-The imperial year runs **361 days**, a **seven-day week** named for the Seven, tracked against **two moons — Iso and Sisar.** Where the week and the year fail to divide, four godless days — the **Plerosis** — close the year outside the week entirely. It is on those four days that the west's prophecy waits.
+The imperial year is **361 days — a perfect square, 19² — kept as nineteen months of nineteen days.** Its **seven-day week** is named for the Seven and begins on Monda. Where week and year fail to divide, four godless days — the **Plerosis** — close the year outside the week entirely, and it is on those four days that the west's prophecy waits.
 
-Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-calendar.md) — **drafted**. Structured data: [`reference/calendar.json`](reference/calendar.json). *(The doctrinal "nineteen months of nineteen days" and the file's **eighteen** months don't yet agree — a known open question, laid out in the article.)*
+Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-calendar.md) — **drafted**.
 
 </details>
 
@@ -305,7 +307,8 @@ Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-c
 │   │       └── the-empire.md         ← planned
 │   ├── religions/
 │   │   ├── eutaxia.md                ← drafted
-│   │   └── vestrn-faith.md           ← planned  (the Firēs–Phira fusion)
+│   │   ├── vestrn-faith.md           ← planned  (the Firēs–Phira fusion)
+│   │   └── sideria.md               ← drafted  (the Sylvan star-cult, D'gento voice)
 │   ├── history/
 │   │   └── severance.md              ← planned
 │   ├── peoples/
@@ -322,9 +325,6 @@ Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-c
 │   ├── characters/
 │   └── stories/
 │
-├── reference/
-│   └── calendar.json                 ← drafted
-│
 ├── maps/
 │   ├── vestrn-labeled-fancy.png      ★ the west, illustrated & labelled
 │   ├── vestrn.png                      illustrated, unlabelled
@@ -335,6 +335,12 @@ Full write-up: [`docs/cosmology/eutaxian-calendar.md`](docs/cosmology/eutaxian-c
 │   ├── artwork/
 │   ├── flags/
 │   └── symbols/
+│
+├── _authoring/                       ← author-only; NOT in-universe, do not publish
+│   ├── WIKI_SCHEMA.md                   the wiki's writing standard
+│   ├── SCRATCHPAD_eutaxia.md
+│   ├── SCRATCHPAD_sideria.md
+│   └── SCRATCHPAD_vestrn.md
 │
 └── README.md
 ```
@@ -403,7 +409,7 @@ Peoples              :: Human · Dwarven · Elven
 Landmark             :: The Wall — ancient, ~500m, purpose forgotten
 Gate-City            :: Myridian — the vertical city of secrets
 Languages Recorded   :: 11
-Moons                :: 2   (Iso · Sisar)
+Moons                :: 2 — Luna Mayr & Luna Sora   (the Empire: Monē & Mania)
 Emperor              :: 1, deathless, 800+ years reigning
 ```
 
@@ -427,7 +433,7 @@ Emperor              :: 1, deathless, 800+ years reigning
 - [ ] `severance.md` — the war, the terms, the reckoning
 - [ ] Historical timeline (Unification → Severance → present)
 - [ ] Cosmology & the shape of the heavens
-- [ ] Reconcile the calendar (18 months vs. the doctrinal 19×19)
+- [ ] Name the remaining sixteen months & settle the moons
 - [ ] Interactive atlas & searchable wiki
 
 ---
